@@ -1,4 +1,4 @@
-# Image is here
+<img src="logo/essential-links-logo.png" raw=true alt="It a logo" style="margin-right: 15px;" />
 
 # Contents
 
