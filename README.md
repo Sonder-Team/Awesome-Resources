@@ -24,8 +24,8 @@
 | [MIT Open Library](https://openlearninglibrary.mit.edu/) | The MIT Open Learning Library is home to selected educational content from MIT OpenCourseWare and MITx courses, available to anyone in the world at any time. All material is free to use. Some resources, particularly those from MIT OpenCourseWare, are free to download, remix, and reuse for non-commercial purposes. |
 | [Open Source Agenda](https://opensourceagenda.com/) | Soon... |
 | [Open Source Agenda CS](https://opensourceagenda.com/projects/cs-roadmap) | Soon... |
-| [OSSU](https://github.com/ossu/computer-science) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
-| [OSSU-2](https://ossu.firebaseapp.com/) | Soon... |
+| [OSSU](https://github.com/ossu/computer-science) | Soon... |
+| [OSSU CS](https://ossu.firebaseapp.com/) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
 | [PBS Learning Media]() | PBS LearningMedia is a FREE comprehensive media-on-demand digital content library that offers PreK-12 classrooms a flexible way to integrate media into daily instruction. PBS LearningMedia engages educators and learners at all levels with content from America's #1 Educational Media Brand. |
 | [Stanford Online](https://online.stanford.edu/) | Soon... |
 | [Techyourself](https://teachyourselfcs.com/) | Soon... |
