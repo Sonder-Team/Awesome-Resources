@@ -84,12 +84,43 @@
 
 ### Prepeare for Interview 
 
+| Links | Description |
+| ------------- | ------------- |
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/README.md) | Soon... |
 | [Coding Interview University (Uzbek)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) | Soon... |
 | [formation.dev](https://formation.dev/) | Soon... |
 | [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
 
-### Soon...
+## University Textboooks
+
+| Links | Description |
+| ------------- | ------------- |
+| [Open Stax](https://openstax.org/) | Soon... |
+
+## Medicine
+
+| Links | Description |
+| ------------- | ------------- |
+| [NinjaNerd](https://ninjanerd.org/) | Soon... |
+| [OpenWHO](https://openwho.org/) | Soon... |
+
+## Language
+### Learn English
+
+| Links | Description |
+| ------------- | ------------- |
+| [BBC Learning English](https://bbc.co.uk/learningenglish/) | Soon... |
+| [Voice of America](https://learningenglish.voanews.com/) | Soon... |
+| [USA Learns](https://usalearns.org/) | Soon... |
+
+### Learn German
+
+| Links | Description |
+| ------------- | ------------- |
+| [vhs](https://abc.vhs-lernportal.de/) | Soon... |
+
+## Soon...
+
 
 
 
