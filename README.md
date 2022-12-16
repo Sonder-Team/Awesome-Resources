@@ -91,11 +91,17 @@
 | [formation.dev](https://formation.dev/) | Soon... |
 | [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
 
-## University Textboooks
+## University Textbooks
 
 | Links | Description |
 | ------------- | ------------- |
 | [Open Stax](https://openstax.org/) | Soon... |
+
+## Physics
+
+| Links | Description |
+| ------------- | ------------- |
+| [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Soon... |
 
 ## Medicine
 
@@ -103,6 +109,13 @@
 | ------------- | ------------- |
 | [NinjaNerd](https://ninjanerd.org/) | Soon... |
 | [OpenWHO](https://openwho.org/) | Soon... |
+
+## Economics & Finance
+
+| Links | Description |
+| ------------- | ------------- |
+| [CFI](https://corporatefinanceinstitute.com/) | Soon... |
+| [efi](https://www.econfun.org/en) | Soon... |
 
 ## Language
 ### Learn English
