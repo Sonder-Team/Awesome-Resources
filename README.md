@@ -33,12 +33,21 @@
 
 | Links | Description |
 | ---------- | ---------- |
-| [Digital Ocean](https://www.digitalocean.com/community) | Soon... |
+| [CODE](https://code.org/) | Soon... |
+| [C++ Institute](https://cppinstitute.org/) | Soon... |
+| [Codeacademy](https://www.codecademy.com/) | Soon... |
+| [Digital Ocean](https://www.digitalocean.com/community) | Soon... 
+| [Edube](https://edube.org/) | Soon... |
 | [Envato Tuts+](https://tutsplus.com/) | Soon... |
 | [freecodecamp](https://www.freecodecamp.org) | Soon... |
+| [JS Institute](https://js.institute/) | Soon... |
+| [Python Institute](https://pythoninstitute.org/) | Soon... |
 | [Sololearn](https://www.sololearn.com/) | Soon... |
 | [The Odin Project](https://www.theodinproject.com/) | Soon... |
+| [Udacity](https://www.udacity.com/) | Soon... |
+| [Udemy](https://www.udemy.com/) | Soon... |
 | [web.dev](https://web.dev/) | Soon... |
+| [w3school](https://www.w3schools.com/) | Soon... |
 
 ### Data Analytics & Data Science & A.I.
 
