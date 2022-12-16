@@ -29,9 +29,20 @@
 
 # Resources for Specific Areas
 ## Information Technology
+### Web Design & Web Development
+
+| Links | Description |
+| ---------- | ---------- |
+| [Digital Ocean](https://www.digitalocean.com/community) | Soon... |
+| [Envato Tuts+](https://tutsplus.com/) | Soon... |
+| [freecodecamp](https://www.freecodecamp.org) | Soon... |
+| [Sololearn](https://www.sololearn.com/) | Soon... |
+| [The Odin Project](https://www.theodinproject.com/) | Soon... |
+| [web.dev](https://web.dev/) | Soon... |
+
 ### Data Analytics & Data Science & A.I.
 
-| Links  | Description |
+| Links | Description |
 | ------------- | ------------- |
 | [365 Data Science](https://www.365datascience.com) | Soon... |
 | [DataCamp](https://www.datacamp.com/) | Soon... |
@@ -46,7 +57,7 @@
 | [Univ.AI](https://www.univ.ai/) | Soon... |
 | []() | Soon... |
 
-### Front-End & Back-End
+### Soon...
 
 
 
