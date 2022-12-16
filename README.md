@@ -91,16 +91,19 @@
 | [formation.dev](https://formation.dev/) | Soon... |
 | [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
 
-## University Textbooks
+## eBooks & Textbooks
 
 | Links | Description |
 | ------------- | ------------- |
+| [GoalKicker](https://goalkicker.com/) | Soon... |
 | [Open Stax](https://openstax.org/) | Soon... |
 
 ## Physics
 
 | Links | Description |
 | ------------- | ------------- |
+| [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | Soon... |
+| [Feynman Lectures](https://feynmanlectures.caltech.edu/) | Soon... |
 | [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Soon... |
 
 ## Medicine
@@ -123,8 +126,10 @@
 | Links | Description |
 | ------------- | ------------- |
 | [BBC Learning English](https://bbc.co.uk/learningenglish/) | Soon... |
-| [Voice of America](https://learningenglish.voanews.com/) | Soon... |
+| [One Stop English](https://onestopenglish.com/) | Soon... |
+| [Perfectly Spoken](https://perfectlyspoken.com/) | Soon... |
 | [USA Learns](https://usalearns.org/) | Soon... |
+| [Voice of America](https://learningenglish.voanews.com/) | Soon... |
 
 ### Learn German
 
