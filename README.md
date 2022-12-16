@@ -22,10 +22,13 @@
 | [Khan Academy](https://www.khanacademy.org/) | Khan Academy is an American non-profit educational organization created in 2008 by Sal Khan. Its goal is creating a set of online tools that help educate students. The organization produces short lessons in the form of videos. Its website also includes supplementary practice exercises and materials for educators. It has produced over 8,000 video lessons teaching a wide spectrum of academic subjects, originally focusing on mathematics and sciences. All resources are available for free to users of the website and application. |
 | [MIT OpenCourseWare](https://ocw.mit.edu/) | MIT OpenCourseWare (MIT OCW) is an initiative of the Massachusetts Institute of Technology (MIT) to publish all of the educational materials from its undergraduate- and graduate-level courses online, freely and openly available to anyone, anywhere. The project was announced on April 4, 2001, and uses Creative Commons Attribution-NonCommercial-ShareAlike license. The program was originally funded by the William and Flora Hewlett Foundation, the Andrew W. Mellon Foundation, and MIT. Currently, MIT OpenCourseWare is supported by MIT, corporate underwriting, major gifts, and donations from site visitors. The initiative inspired a number of other institutions to make their course materials available as open educational resources. |
 | [MIT Open Library](https://openlearninglibrary.mit.edu/) | The MIT Open Learning Library is home to selected educational content from MIT OpenCourseWare and MITx courses, available to anyone in the world at any time. All material is free to use. Some resources, particularly those from MIT OpenCourseWare, are free to download, remix, and reuse for non-commercial purposes. |
+| [Open Source Agenda](https://opensourceagenda.com/) | Soon... |
+| [Open Source Agenda CS](https://opensourceagenda.com/projects/cs-roadmap) | Soon... |
 | [OSSU](https://github.com/ossu/computer-science) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
 | [OSSU-2](https://ossu.firebaseapp.com/) | Soon... |
 | [PBS Learning Media]() | PBS LearningMedia is a FREE comprehensive media-on-demand digital content library that offers PreK-12 classrooms a flexible way to integrate media into daily instruction. PBS LearningMedia engages educators and learners at all levels with content from America's #1 Educational Media Brand. |
 | [Stanford Online](https://online.stanford.edu/) | Soon... |
+| [Techyourself](https://teachyourselfcs.com/) | Soon... |
 
 # Resources for Specific Areas
 ## Information Technology
@@ -42,6 +45,7 @@
 | [freecodecamp](https://www.freecodecamp.org) | Soon... |
 | [JS Institute](https://js.institute/) | Soon... |
 | [Python Institute](https://pythoninstitute.org/) | Soon... |
+| [Python for Everybody](https://py4e.com/) | Soon... |
 | [Sololearn](https://www.sololearn.com/) | Soon... |
 | [The Odin Project](https://www.theodinproject.com/) | Soon... |
 | [Udacity](https://www.udacity.com/) | Soon... |
@@ -73,6 +77,17 @@
 | [AlgoExpert](https://algoexpert.io) | Soon... |
 | [Codewars](https://www.codewars.com) | Soon... |
 | [Geeks for Geeks](https://www.geeksforgeeks.org) | Soon... |
+| [HackerRank](https://www.hackerrank.com/) | Soon... |
+| [HackScience](https://hackinscience.org/) | Soon... |
+| [LeetCode](https://leetcode.com/) | Soon... |
+| [Visualgo](https://visualgo.net/) | Soon... |
+
+### Prepeare for Interview 
+
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/README.md) | Soon... |
+| [Coding Interview University (Uzbek)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) | Soon... |
+| [formation.dev](https://formation.dev/) | Soon... |
+| [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
 
 ### Soon...
 
