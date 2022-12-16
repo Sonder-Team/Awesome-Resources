@@ -106,6 +106,13 @@
 | [Feynman Lectures](https://feynmanlectures.caltech.edu/) | Soon... |
 | [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Soon... |
 
+## Science
+
+| Links | Description |
+| ------------- | ------------- |
+| [New Scientist Academy](https://academy.newscientist.com/) | Soon... |
+
+
 ## Medicine
 
 | Links | Description |
