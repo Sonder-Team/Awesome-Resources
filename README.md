@@ -66,6 +66,14 @@
 | [Univ.AI](https://www.univ.ai/) | Soon... |
 | []() | Soon... |
 
+### Algorithms & Data Structures
+
+| Links | Description |
+| ------------- | ------------- |
+| [AlgoExpert](https://algoexpert.io) | Soon... |
+| [Codewars](https://www.codewars.com) | Soon... |
+| [Geeks for Geeks](https://www.geeksforgeeks.org) | Soon... |
+
 ### Soon...
 
 
