@@ -94,16 +94,16 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [GoalKicker](https://goalkicker.com/) | Soon... |
-| [Open Stax](https://openstax.org/) | Soon... |
+| [GoalKicker](https://goalkicker.com/) | Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more. |
+| [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
 
 ## Physics
 
 | Links | Description |
 | ------------- | ------------- |
-| [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | Soon... |
-| [Feynman Lectures](https://feynmanlectures.caltech.edu/) | Soon... |
-| [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Soon... |
+| [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | This repository contains a collection of resources and papers on Diffusion Models. |
+| [Feynman Lectures](https://feynmanlectures.caltech.edu/) | The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. |
+| [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Roadmap to learn physics by Susan Rigetti. |
 
 ## Science
 
