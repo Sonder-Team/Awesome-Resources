@@ -131,9 +131,9 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [BBC Learning English](https://bbc.co.uk/learningenglish/) | Soon... |
-| [One Stop English](https://onestopenglish.com/) | Soon... |
-| [Perfectly Spoken](https://perfectlyspoken.com/) | Soon... |
+| [BBC Learning English](https://bbc.co.uk/learningenglish/) | BBC Learning English is a department of the BBC World Service devoted to English language teaching. The service provides free resources and activities for teachers and students, primarily through its website. It also produces radio programmes which air on some of the BBC World Service's language services and partner stations. It has won numerous awards, including two Eltons from the British Council and an English Speaking Union award for innovation in English language teaching. |
+| [One Stop English](https://onestopenglish.com/) | With more than 700,000 registered users in over 100 countries around the world, Onestopenglish is the number one resource site for English language teachers, providing access to thousands of resources, including lesson plans, worksheets, audio, video and flashcards. |
+| [Perfectly Spoken](https://perfectlyspoken.com/) | Perfectly Spoken is a new and simple way to learn English online. Their full online English courses are created by experienced English teachers and allow students to work through high quality video lessons at any time on any device. You can monitor your progress through each course and go over any lessons you found hard again and again. It's a premium content. |
 | [USA Learns](https://usalearns.org/) | USA Learns is a free website that teaches English skills to immigrants.  It consists of three levels First English Course (NRS Levels 2 and 3), Second English Course (NRS Levels 4 and 5) and Practice English and Reading skills (intermediate level).  The courses offer different topics (e.g., workplace, parenting, the classroom, shopping) that are further broken into learning units.  Each unit offers an introduction, a video that is central to the learning unit, listening, comprehension, vocabulary, spelling, speaking, and self-check exercises. |
 | [Voice of America](https://learningenglish.voanews.com/) | VOA Learning English has multiple daily newscasts and 14 weekly features. These include reports on agriculture, economics, health and current events. Other programs explore American society, U.S. history, idiomatic expressions, science, and arts and entertainment. |
 
