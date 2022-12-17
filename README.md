@@ -156,6 +156,13 @@
 | [FOSS Torents](https://fosstorrents.com/) | Soon... |
 | [Open Source Agenda](https://opensourceagenda.com/) | Soon... |
 
+## API's
+
+| Links | Description |
+| ------------- | ------------- |
+| [Public APIs](https://github.com/public-apis/public-apis/) | Soon... |
+| [RapidAPI](https://rapidapi.com/hub) | Soon... |
+
 ## Soon...
 
 
