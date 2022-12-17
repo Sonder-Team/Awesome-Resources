@@ -109,22 +109,22 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [New Scientist Academy](https://academy.newscientist.com/) | Soon... |
+| [New Scientist Academy](https://academy.newscientist.com/) | Explore the hottest topics in science. Choose one of the online science courses to learn from world-class educators about life, the universe and what it means to be human. Take your science education into your own hands with our CPD-accredited online courses. |
 
 
 ## Medicine
 
 | Links | Description |
 | ------------- | ------------- |
-| [NinjaNerd](https://ninjanerd.org/) | Soon... |
-| [OpenWHO](https://openwho.org/) | Soon... |
+| [NinjaNerd](https://ninjanerd.org/) | Ninja Nerd is a learning platform for medicine & science. |
+| [OpenWHO](https://openwho.org/) | OpenWHO is WHO’s interactive, web-based, knowledge-transfer platform offering online courses to improve the response to health emergencies. OpenWHO enables the Organization and its key partners to transfer life-saving knowledge to large numbers of frontline responders. |
 
 ## Economics & Finance
 
 | Links | Description |
 | ------------- | ------------- |
-| [CFI](https://corporatefinanceinstitute.com/) | Soon... |
-| [efi](https://www.econfun.org/en) | Soon... |
+| [CFI](https://corporatefinanceinstitute.com/) | Corporate Finance Institute (CFI) is an online training and education platform for finance and investment professionals, providing courses and certifications in financial modeling, valuation, and other corporate finance topics. These are the skills CFI deems important for modern finance - such as Microsoft Excel, presentation and visuals - as well as underlying knowledge of accounting and business strategy. |
+| [efi](https://www.econfun.org/en) | Click! Download! Read! Watch! EFI takes the mystery out of economics, introducing you to key principles through the book “Common Sense Economics”, short videos and articles. You can take part in our competitions for schools and universities – perhaps you are the next winner of the International Economics Olympiad. All you need to invest is your time. In return, you’ll gain knowledge for life! |
 
 ## Language
 ### Learn English
