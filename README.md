@@ -134,20 +134,20 @@
 | [BBC Learning English](https://bbc.co.uk/learningenglish/) | Soon... |
 | [One Stop English](https://onestopenglish.com/) | Soon... |
 | [Perfectly Spoken](https://perfectlyspoken.com/) | Soon... |
-| [USA Learns](https://usalearns.org/) | Soon... |
-| [Voice of America](https://learningenglish.voanews.com/) | Soon... |
+| [USA Learns](https://usalearns.org/) | USA Learns is a free website that teaches English skills to immigrants.  It consists of three levels First English Course (NRS Levels 2 and 3), Second English Course (NRS Levels 4 and 5) and Practice English and Reading skills (intermediate level).  The courses offer different topics (e.g., workplace, parenting, the classroom, shopping) that are further broken into learning units.  Each unit offers an introduction, a video that is central to the learning unit, listening, comprehension, vocabulary, spelling, speaking, and self-check exercises. |
+| [Voice of America](https://learningenglish.voanews.com/) | VOA Learning English has multiple daily newscasts and 14 weekly features. These include reports on agriculture, economics, health and current events. Other programs explore American society, U.S. history, idiomatic expressions, science, and arts and entertainment. |
 
 ### Learn German
 
 | Links | Description |
 | ------------- | ------------- |
-| [vhs](https://abc.vhs-lernportal.de/) | Soon... |
+| [vhs-Learnportal](https://abc.vhs-lernportal.de/) | The vhs learning portal is the free digital learning offer of the German Adult Education Association (DVV) for German as a second language, for literacy and basic education. |
 
 ## Find Mentors 
 
 | Links | Description |
 | ------------- | ------------- |
-| [ADPList](https://adplist.org/) | Soon... |
+| [ADPList](https://adplist.org/) | ADPList is a global community of mentors and learners, where people can find, book and meet mentors around the world. |
 
 ## Open-Source Projects
 
