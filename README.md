@@ -153,15 +153,15 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [FOSS Torents](https://fosstorrents.com/) | Soon... |
-| [Open Source Agenda](https://opensourceagenda.com/) | Soon... |
+| [FOSS Torents](https://fosstorrents.com/) | How goal, at FOSS Torrents, is to help every free and open-source project. Their method is simple: They track new releases, they create torrents which include web seeds, they seed those torrents until a new version is available, and they promote new releases. All of this for free. |
+| [Open Source Agenda](https://opensourceagenda.com/) | Discover the best free open source software projects. Learn more about 707K+ free projects organized in 212K+ topics. |
 
 ## API's
 
 | Links | Description |
 | ------------- | ------------- |
-| [Public APIs](https://github.com/public-apis/public-apis/) | Soon... |
-| [RapidAPI](https://rapidapi.com/hub) | Soon... |
+| [Public APIs](https://github.com/public-apis/public-apis/) | A collective list of free APIs. |
+| [RapidAPI](https://rapidapi.com/hub) | RapidAPI provides a seamless, connected experience to build, consume, manage, and monetize APIs built to support every type of developer. It's have premium APIs. |
 
 ## Soon...
 
