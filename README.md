@@ -7,7 +7,8 @@
 
 - Educational Resources
 
-# General Resources for Education
+# Education
+## General Resources for Education
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -29,9 +30,9 @@
 | [Stanford Online](https://online.stanford.edu/) | Soon... |
 | [Techyourself](https://teachyourselfcs.com/) | Soon... |
 
-# Resources for Specific Areas
-## Information Technology
-### Web Design & Web Development
+## Resources for Specific Areas
+### Information Technology
+#### Web Design & Web Development
 
 | Links | Description |
 | ---------- | ---------- |
@@ -52,7 +53,7 @@
 | [web.dev](https://web.dev/) | Soon... |
 | [w3school](https://www.w3schools.com/) | Soon... |
 
-### Data Analytics & Data Science & A.I.
+#### Data Analytics & Data Science & A.I.
 
 | Links | Description |
 | ------------- | ------------- |
@@ -69,7 +70,7 @@
 | [Univ.AI](https://www.univ.ai/) | Soon... |
 | []() | Soon... |
 
-### Algorithms & Data Structures
+#### Algorithms & Data Structures
 
 | Links | Description |
 | ------------- | ------------- |
@@ -81,7 +82,7 @@
 | [LeetCode](https://leetcode.com/) | Soon... |
 | [Visualgo](https://visualgo.net/) | Soon... |
 
-### Prepeare for Interview 
+#### Prepeare for Interview 
 
 | Links | Description |
 | ------------- | ------------- |
@@ -90,14 +91,14 @@
 | [formation.dev](https://formation.dev/) | Soon... |
 | [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
 
-## eBooks & Textbooks
+### eBooks & Textbooks
 
 | Links | Description |
 | ------------- | ------------- |
 | [GoalKicker](https://goalkicker.com/) | Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more. |
 | [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
 
-## Physics
+### Physics
 
 | Links | Description |
 | ------------- | ------------- |
@@ -105,29 +106,29 @@
 | [Feynman Lectures](https://feynmanlectures.caltech.edu/) | The Feynman Lectures on Physics is a physics textbook based on some lectures by Richard Feynman, a Nobel laureate who has sometimes been called "The Great Explainer". The lectures were presented before undergraduate students at the California Institute of Technology (Caltech), during 1961–1963. The book's co-authors are Feynman, Robert B. Leighton, and Matthew Sands. |
 | [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Roadmap to learn physics by Susan Rigetti. |
 
-## Science
+### Science
 
 | Links | Description |
 | ------------- | ------------- |
 | [New Scientist Academy](https://academy.newscientist.com/) | Explore the hottest topics in science. Choose one of the online science courses to learn from world-class educators about life, the universe and what it means to be human. Take your science education into your own hands with our CPD-accredited online courses. |
 
 
-## Medicine
+### Medicine
 
 | Links | Description |
 | ------------- | ------------- |
 | [NinjaNerd](https://ninjanerd.org/) | Ninja Nerd is a learning platform for medicine & science. |
 | [OpenWHO](https://openwho.org/) | OpenWHO is WHO’s interactive, web-based, knowledge-transfer platform offering online courses to improve the response to health emergencies. OpenWHO enables the Organization and its key partners to transfer life-saving knowledge to large numbers of frontline responders. |
 
-## Economics & Finance
+### Economics & Finance
 
 | Links | Description |
 | ------------- | ------------- |
 | [CFI](https://corporatefinanceinstitute.com/) | Corporate Finance Institute (CFI) is an online training and education platform for finance and investment professionals, providing courses and certifications in financial modeling, valuation, and other corporate finance topics. These are the skills CFI deems important for modern finance - such as Microsoft Excel, presentation and visuals - as well as underlying knowledge of accounting and business strategy. |
 | [efi](https://www.econfun.org/en) | Click! Download! Read! Watch! EFI takes the mystery out of economics, introducing you to key principles through the book “Common Sense Economics”, short videos and articles. You can take part in our competitions for schools and universities – perhaps you are the next winner of the International Economics Olympiad. All you need to invest is your time. In return, you’ll gain knowledge for life! |
 
-## Language
-### Learn English
+### Language
+#### Learn English
 
 | Links | Description |
 | ------------- | ------------- |
@@ -137,19 +138,19 @@
 | [USA Learns](https://usalearns.org/) | USA Learns is a free website that teaches English skills to immigrants.  It consists of three levels First English Course (NRS Levels 2 and 3), Second English Course (NRS Levels 4 and 5) and Practice English and Reading skills (intermediate level).  The courses offer different topics (e.g., workplace, parenting, the classroom, shopping) that are further broken into learning units.  Each unit offers an introduction, a video that is central to the learning unit, listening, comprehension, vocabulary, spelling, speaking, and self-check exercises. |
 | [Voice of America](https://learningenglish.voanews.com/) | VOA Learning English has multiple daily newscasts and 14 weekly features. These include reports on agriculture, economics, health and current events. Other programs explore American society, U.S. history, idiomatic expressions, science, and arts and entertainment. |
 
-### Learn German
+#### Learn German
 
 | Links | Description |
 | ------------- | ------------- |
 | [vhs-Learnportal](https://abc.vhs-lernportal.de/) | The vhs learning portal is the free digital learning offer of the German Adult Education Association (DVV) for German as a second language, for literacy and basic education. |
 
-## Find Mentors 
+### Find Mentors 
 
 | Links | Description |
 | ------------- | ------------- |
 | [ADPList](https://adplist.org/) | ADPList is a global community of mentors and learners, where people can find, book and meet mentors around the world. |
 
-## Open-Source Projects
+# Open-Source Projects
 
 | Links | Description |
 | ------------- | ------------- |
