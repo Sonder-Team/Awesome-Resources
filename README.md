@@ -6,7 +6,7 @@
 # Contents
 
 - [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)
-- [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)
+- [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 
 # Education
 ## General Resources for Education
