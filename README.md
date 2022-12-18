@@ -5,7 +5,16 @@
 
 # Contents
 
-- [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)
+- [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)\
+    • [General Resources for Education]()\
+        • [Economics & Finance]()\
+        • [Languages]()\
+        • [Medicine]()\
+        • [Mentorship Platform]()\
+        • [Physics]()\
+        • [Science]()\
+    • [Resources for Specific Areas]()\
+    • [eBooks & Textbooks]()\
 - [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 
 # Education
