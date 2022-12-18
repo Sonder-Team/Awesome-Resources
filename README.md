@@ -74,22 +74,22 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [AlgoExpert](https://algoexpert.io) | Soon... |
-| [Codewars](https://www.codewars.com) | Soon... |
-| [Geeks for Geeks](https://www.geeksforgeeks.org) | Soon... |
-| [HackerRank](https://www.hackerrank.com/) | Soon... |
-| [HackScience](https://hackinscience.org/) | Soon... |
-| [LeetCode](https://leetcode.com/) | Soon... |
-| [Visualgo](https://visualgo.net/) | Soon... |
+| [AlgoExpert](https://algoexpert.io) | AlgoExpert is an interview prep program designed to teach you how to ace technical interviews (especially with top tech companies like Google, Facebook, Amazon, Microsoft, and Apple). It's a permium platform |
+| [Codewars](https://www.codewars.com) | Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment. On Codewars the community and challenge progression is gamified, with users earning ranks and honor for completing kata, contributing kata, and quality solutions. |
+| [Geeks for Geeks](https://www.geeksforgeeks.org) | This platform has been designed for every geek wishing to expand their knowledge, share their knowledge and is ready to grab their dream job. Their have millions of articles, live as well as online courses, thousands of tutorials and much more just for the geek inside you. |
+| [HackerRank](https://www.hackerrank.com/) | They help companies develop the strongest tech teams around. They help candidates sharpen their tech skills and pursue job opportunities. |
+| [HackScience](https://hackinscience.org/) | Hackinscience is an interactive Python exercise platform: Write code, get instant feedback from our correction bot with detailed information about what went wrong so you'll never get stuck. |
+| [LeetCode](https://leetcode.com/) | LeetCode is one of the most well-known online judge platforms that you can use to practice your programming skills by solving coding questions. It has over 1,100 different problems, support for over 18 programming languages, and an active community that is always there to help you with the solutions you come up with. If your intention is to hone your coding skills, then this online judge platform is one of the best that you can use. |
+| [Visualgo](https://visualgo.net/) | Visualising data structures and algorithms through animation. |
 
 #### Prepeare for Interview 
 
 | Links | Description |
 | ------------- | ------------- |
-| [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/README.md) | Soon... |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/README.md) | If you want to work as a software engineer for a large company, this link for you. |
 | [Coding Interview University (Uzbek)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) | Soon... |
-| [formation.dev](https://formation.dev/) | Soon... |
-| [Tech Mock Interview](https://techmockinterview.com/) | Soon... |
+| [formation](https://formation.dev/) | Formation is a virtual fellowship program for software engineers who seek impactful roles and career growth at top-tier tech companies. |
+| [Tech Mock Interview](https://techmockinterview.com/) | They offer a variety of interview types that include coding interviews, system design interviews, behavioral interviews, software development management (SDM) interviews, and Technical Program Manager (TPM) interviews. Each of their packages are tailored to the exact job you are applying for and are guaranteed to give you insight into the interview that you will not be able to find elsewhere. Their mock phone interviews along with their verbal and written feedback will help you practice the skills you will need to shine during the entire interview process and stand out as a top candidate. |
 
 ### eBooks & Textbooks
 
