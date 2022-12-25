@@ -6,15 +6,16 @@
 # Contents
 
 - [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)\
-    • [General Resources for Education]()\
-        • [Economics & Finance]()\
-        • [Languages]()\
-        • [Medicine]()\
-        • [Mentorship Platform]()\
-        • [Physics]()\
-        • [Science]()\
-    • [Resources for Specific Areas]()\
-    • [eBooks & Textbooks]()
+    • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
+    • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
+        • [Computer Science & Technology](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#computer-science--technology)\
+        • [Economics & Finance](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#economics--finance)\
+        • [Languages](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#language)\
+        • [Medicine](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#medicine)\
+        • [Mentorship Platform](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#mentorship-platform)\
+        • [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)\
+        • [Science](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#science)\
+    • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
 - [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 
 # Education
