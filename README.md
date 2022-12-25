@@ -8,13 +8,13 @@
 - [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)\
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
-        • [Computer Science & Technology](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#computer-science--technology)\
-        • [Economics & Finance](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#economics--finance)\
-        • [Languages](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#language)\
-        • [Medicine](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#medicine)\
-        • [Mentorship Platform](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#mentorship-platform)\
-        • [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)\
-        • [Science](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#science)\
+    &emsp;&emsp;• [Computer Science & Technology](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#computer-science--technology)\
+    &emsp;&emsp;• [Economics & Finance](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#economics--finance)\
+    &emsp;&emsp;• [Languages](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#language)\
+    &emsp;&emsp;• [Medicine](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#medicine)\
+    &emsp;&emsp;• [Mentorship Platform](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#mentorship-platform)\
+    &emsp;&emsp;• [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)\
+    &emsp;&emsp;• [Science](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#science)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
 - [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 
