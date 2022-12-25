@@ -73,12 +73,11 @@
 | [DeepLearningAI](https://www.deeplearning.ai/) | Soon... |
 | [Elements of A.I.](https://www.elementsofai.com/) | Soon... |
 | [freecodecamp](https://www.freecodecamp.org) | Soon... |
-| [Google A.I.](https://ai.google/) | Soon... |
+| [Google A.I.](https://ai.google/) | "At Google A.I., we’re conducting research that advances the state-of-the-art in the field, applying A.I. to products and to new domains, and developing tools to ensure that everyone can access A.I." - ai.google |
 | [Hugging Face](https://huggingface.co/) | Hugging Face, Inc. is an American company that develops tools for building applications using machine learning. It is most notable for its Transformers library built for natural language processing applications and its platform that allows users to share machine learning models and datasets. |
-| [Jovian](https://www.jovian.ai/) | Soon... | 
-| [Kaggle](https://www.kaggle.com/) | Soon... |
-| [Univ.AI](https://www.univ.ai/) | Soon... |
-| []() | Soon... |
+| [Jovian](https://www.jovian.ai/) | Learn practical skills from Silicon Valley engineers, build real-world portfolio projects, and earn a certification. Kick start your data science career! | 
+| [Kaggle](https://www.kaggle.com/) | Kaggle, a subsidiary of Google LLC, is an online community of data scientists and machine learning practitioners. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. |
+| [Univ.AI](https://www.univ.ai/) | Train with Harvard & UCLA lecturers in A.I. |
 
 #### Prepeare for Interview 
 
