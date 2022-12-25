@@ -93,22 +93,22 @@
 
 | Links | Description |
 | ---------- | ---------- |
-| [CODE](https://code.org/) | Soon... |
-| [C++ Institute](https://cppinstitute.org/) | Soon... |
-| [Codeacademy](https://www.codecademy.com/) | Soon... |
-| [Digital Ocean](https://www.digitalocean.com/community) | Soon... 
-| [Edube](https://edube.org/) | Soon... |
-| [Envato Tuts+](https://tutsplus.com/) | Soon... |
-| [freecodecamp](https://www.freecodecamp.org) | Soon... |
-| [JS Institute](https://js.institute/) | Soon... |
-| [Python Institute](https://pythoninstitute.org/) | Soon... |
-| [Python for Everybody](https://py4e.com/) | Soon... |
-| [Sololearn](https://www.sololearn.com/) | Soon... |
-| [The Odin Project](https://www.theodinproject.com/) | Soon... |
-| [Udacity](https://www.udacity.com/) | Soon... |
-| [Udemy](https://www.udemy.com/) | Soon... |
-| [web.dev](https://web.dev/) | Soon... |
-| [w3school](https://www.w3schools.com/) | Soon... |
+| [CODE](https://code.org/) | Code.org® is an education innovation nonprofit dedicated to the vision that every student in every school has the opportunity to learn computer science as part of their core K-12 education. They expand access to computer science in schools, with a focus on increasing participation by young women and students from other underrepresented groups. The leading provider of K-12 computer science curriculum in the largest school districts in the United States, Code.org also organizes the annual Hour of Code campaign, which has engaged more than 15% of all students in the world. Code.org is supported by generous donors including Microsoft, Amazon, Google and many others. |
+| [C++ Institute](https://cppinstitute.org/) | The C++ Institute is a non-profit project run by the Open Education and Development Group (OpenEDG), and established to promote the C/C++ programming languages, provide a global framework for C/C++ examinations as well as enhance, develop and support professional careers in C/C++ programming and related technologies. |
+| [Codeacademy](https://www.codecademy.com/) | Codecademy is an American online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, and Swift, as well as markup languages HTML and CSS. The site also offers a paid "Pro" option that gives users access to personalized learning plans, quizzes, and realistic projects. |
+| [Digital Ocean](https://www.digitalocean.com/community) | DigitalOcean’s community offers thousands of tutorials, videos, and answers to questions on a wide range of topics. |
+| [Edube](https://edube.org/) | Edube Interactive is an OpenEDG project – an education and assessment platform designed to provide access to high-quality courses and study resources for everyone, everywhere, at any time. Their mission is to enhance the learning and teaching experience both online and as part of on-site and on-campus training. |
+| [Envato Tuts+](https://tutsplus.com/) | Envato Tuts+ helps you learn creative skills and shape the life you want. As part of Envato’s creative ecosystem, Envato Tuts+ contributes to their mission of “helping people learn and earn online”. They love to see how people transform themselves and their lives by learning creative skills and earning money selling their creations or services to the world. |
+| [freecodecamp](https://www.freecodecamp.org) | freeCodeCamp (also referred to as Free Code Camp) is a non-profit organization that consists of an interactive learning web platform, an online community forum, chat rooms, online publications and local organizations that intend to make learning web development accessible to anyone. Beginning with tutorials that introduce students to HTML, CSS and JavaScript, students progress to project assignments that they complete either alone or in pairs. Upon completion of all project tasks, students are partnered with other nonprofits to build web applications, giving the students practical development experience. |
+| [JS Institute](https://js.institute/) | Established in 2021, the JS Institute is a project venture run and managed by OpenEDG, whose aim is to support the education and industry sectors, and help them fulfill their JavaScript needs, as well as support the development of the JavaScript language and its global community. |
+| [Python Institute](https://pythoninstitute.org/) | The Python Institute is an independent non-profit project venture set up, run, and managed by OpenEDG, the Open Education and Development Group, to promote the Python programming language, train a new generation of Python programmers, and support professional careers in programming in Python and related technologies. In line with the strategic goals associated with the enhancement and development of careers in Python programming, OpenEDG Python Institute provides an independent global framework for curriculum development, skills assessment, and Python programming high-stakes examinations. |
+| [Python for Everybody](https://py4e.com/) | This web site is building a set of free materials, lectures, book and assignments to help students learn how to program in Python. You can take this course and receive a certificate at: Coursera: Python for Everybody Specialization. edX: Python for Everybody. |
+| [Sololearn](https://www.sololearn.com/) | Sololearn is an Armenian-Founded free app, available on Android, IOS, and web, allowing users to learn different programming languages and their concepts through short lessons, code challenges, and quizzes. |
+| [The Odin Project](https://www.theodinproject.com/) | The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway. This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education. |
+| [Udacity](https://www.udacity.com/) | Udacity, Inc. is an American for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses. According to Thrun, the origin of the name Udacity comes from the company's desire to be "audacious for you, the student". While it originally focused on offering university-style courses, it now focuses more on vocational courses for professionals. |
+| [Udemy](https://www.udemy.com/) | Udemy, Inc. is a global destination for teaching and learning online. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar. As of November 2022, the platform has more than 57 million students, 213,000 courses, and 74,000 instructors teaching courses in over 75 languages. There have been over 773 million course enrollments. |
+| [web.dev](https://web.dev/) | They want to help you build beautiful, accessible, fast, and secure websites that work cross-browser, and for all of your users. This site is their home for content to help you on that journey, written by members of the Chrome team, and external experts. |
+| [w3school](https://www.w3schools.com/) | W3Schools is a freemium educational website for learning coding online. Initially released in 1998, it derives its name from the World Wide Web but is not affiliated with the W3 Consortium. W3Schools offers courses covering all aspects of web development. W3Schools also publishes free HTML templates. It is run by Refsnes Data in Norway. It has an online text editor called TryIt Editor, and readers can edit examples and run the code in a test environment. |
 
 ### Economics & Finance
 
