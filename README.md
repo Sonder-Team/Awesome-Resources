@@ -22,7 +22,9 @@
     &emsp;&emsp;• [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)\
     &emsp;&emsp;• [Science](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#science)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
-- [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
+- [Tools and Platforms](https://github.com/shamsiddin-abbasov/essential_links#tools-and-platfroms)
+    • [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links#open-source-projects)\
+    • [APIs](https://github.com/shamsiddin-abbasov/essential_links#apis)\
 
 # Education
 ## General Resources for Education
