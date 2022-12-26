@@ -168,7 +168,9 @@
 | [GoalKicker](https://goalkicker.com/) | Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more. |
 | [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
 
-# Open-Source Projects
+# Tools and Platfroms
+
+## Open-Source Projects
 
 | Links | Description |
 | ------------- | ------------- |
