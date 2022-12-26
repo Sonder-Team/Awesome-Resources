@@ -9,9 +9,11 @@
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
-- [Tools and Platforms](https://github.com/shamsiddin-abbasov/essential_links#tools-and-platfroms)
-    • [Open-Source Projects](https://github.com/shamsiddin-abbasov/essential_links#open-source-projects)\
-    • [APIs](https://github.com/shamsiddin-abbasov/essential_links#apis)\
+- [APIs]()
+- [Design & Graphic Design Platforms]()
+- [Job Find & Job Hire Platforms]()
+- [Open-Souece Projects]()
+
 
 # Education
 ## General Resources for Education
@@ -181,14 +183,6 @@
 | [GoalKicker](https://goalkicker.com/) | Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more. |
 | [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
 
-
-# Open-Source Projects
-
-| Links | Description |
-| ------------- | ------------- |
-| [FOSS Torents](https://fosstorrents.com/) | How goal, at FOSS Torrents, is to help every free and open-source project. Their method is simple: They track new releases, they create torrents which include web seeds, they seed those torrents until a new version is available, and they promote new releases. All of this for free. |
-| [Open Source Agenda](https://opensourceagenda.com/) | Discover the best free open source software projects. Learn more about 707K+ free projects organized in 212K+ topics. |
-
 ## API's
 
 | Links | Description |
@@ -210,10 +204,18 @@
 | 1. | [Hired](https://hired.com/) |
 | 2. | [Job Bank Canada](https://www.jobbank.gc.ca/home) |
 | 3. | [LinkedIn](https://www.linkedin.com/) |
-| 4. | [Triplebyte](https://triplebyte.com/) |
-| 5. | [Touring](https://www.turing.com/) |
-| 6. | [Whitetruffle](https://whitetruffle.com/) |
-| 7. | [Zip Recruiter](https://www.ziprecruiter.com/) |
+| 4. | [OneApp](https://oneapp.ly/) |
+| 5. | [Triplebyte](https://triplebyte.com/) |
+| 6. | [Touring](https://www.turing.com/) |
+| 7. | [Whitetruffle](https://whitetruffle.com/) |
+| 8. | [Zip Recruiter](https://www.ziprecruiter.com/) |
+
+# Open-Source Projects
+
+| Links | Description |
+| ------------- | ------------- |
+| [FOSS Torents](https://fosstorrents.com/) | How goal, at FOSS Torrents, is to help every free and open-source project. Their method is simple: They track new releases, they create torrents which include web seeds, they seed those torrents until a new version is available, and they promote new releases. All of this for free. |
+| [Open Source Agenda](https://opensourceagenda.com/) | Discover the best free open source software projects. Learn more about 707K+ free projects organized in 212K+ topics. |
 
 ## Soon...
 
