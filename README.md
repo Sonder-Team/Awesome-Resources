@@ -203,9 +203,15 @@
 
 ## Job Search & Job Hire
 
-| Platforms | 
-| ------------- |
-| [Hired](https://hired.com/) |
+| Links | Description |
+| ------------- | ------------- |
+| 1. | [Hired](https://hired.com/) |
+| 2. | [Job Bank Canada](https://www.jobbank.gc.ca/home) |
+| 3. | [LinkedIn](https://www.linkedin.com/) |
+| 4. | [Triplebyte](https://triplebyte.com/) |
+| 5. | [Touring](https://www.turing.com/) |
+| 6. | [Whitetruffle](https://whitetruffle.com/) |
+| 7. | [Zip Recruiter](https://www.ziprecruiter.com/) |
 
 ## Soon...
 
