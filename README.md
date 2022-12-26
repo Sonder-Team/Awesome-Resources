@@ -9,14 +9,8 @@
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     &emsp;&emsp;• [Computer Science & Technology](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#computer-science--technology)\
-    &emsp;&emsp;&emsp;&emsp;- [Algorithms & Data Structures](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#algorithms--data-structures)\
-    &emsp;&emsp;&emsp;&emsp;- [Data Analytics & Data Science & A.I.](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data-analytics--data-science--ai)\
-    &emsp;&emsp;&emsp;&emsp;- [Prepeare for Interview](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#prepeare-for-interview)\
-    &emsp;&emsp;&emsp;&emsp;- [Web Design & Web Development](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#web-design--web-development)\
     &emsp;&emsp;• [Economics & Finance](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#economics--finance)\
     &emsp;&emsp;• [Languages](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#language)\
-    &emsp;&emsp;&emsp;&emsp;- [Learn English](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-english)\
-    &emsp;&emsp;&emsp;&emsp;- [Learn German](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-german)\
     &emsp;&emsp;• [Medicine](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#medicine)\
     &emsp;&emsp;• [Mentorship Platform](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#mentorship-platform)\
     &emsp;&emsp;• [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)\
@@ -56,6 +50,11 @@
 ## Resources for Specific Areas
 
 ### Computer Science & Technology
+
+- [Algorithms & Data Structures](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#algorithms--data-structures)
+- [Data Analytics & Data Science & A.I.](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data-analytics--data-science--ai)
+- [Prepeare for Interview](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#prepeare-for-interview)
+- [Web Design & Web Development](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#web-design--web-development)
 
 #### Algorithms & Data Structures
 
@@ -126,6 +125,9 @@
 | [efi](https://www.econfun.org/en) | Click! Download! Read! Watch! EFI takes the mystery out of economics, introducing you to key principles through the book “Common Sense Economics”, short videos and articles. You can take part in our competitions for schools and universities – perhaps you are the next winner of the International Economics Olympiad. All you need to invest is your time. In return, you’ll gain knowledge for life! |
 
 ### Language
+
+- [Learn English](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-english)
+- [Learn German](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-german)
 
 #### Learn English
 
