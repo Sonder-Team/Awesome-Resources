@@ -53,6 +53,7 @@
 - [Mentorship Platform](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#mentorship-platform)
 - [Physics](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#physics)
 - [Science](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#science)
+- [Others](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#others)
 
 ### Computer Science & Technology
 
@@ -182,6 +183,13 @@ since 2013. |
 | Links | Description |
 | ------------- | ------------- |
 | [New Scientist Academy](https://academy.newscientist.com/) | Explore the hottest topics in science. Choose one of the online science courses to learn from world-class educators about life, the universe and what it means to be human. Take your science education into your own hands with our CPD-accredited online courses. |
+
+### Others
+
+| Links | Description |
+| ------------- | ------------- |
+| [College Essay Guy](https://www.collegeessayguy.com/) | In 2011, Ethan Sawyer creates a free college essay resource blog. The goal: bring more ease, joy, and purpose to the college admission process. |
+| [Mullen Memory](https://mullenmemory.com/) | Our goal is to find better ways of creating durable knowledge. As professional learners, we care about the nuances that make students powerful learners. This website is our way of exploring habits for efficient learning and the scientific evidence that backs them up. We tackle various learning projects—from medicine to language-learning—sharing our successes and failures. We believe learning how to learn is a lifelong journey of growth and joy, which is why we're a nonprofit dedicated to creating free, accessible content.  |
 
 ## eBooks & Textbooks
 
