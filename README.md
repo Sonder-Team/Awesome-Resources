@@ -196,11 +196,11 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [data.gov](https://data.gov/) | Soon... |
-| [data.gov.uz](https://data.gov.uz/) | Soon... |
+| [data.gov](https://data.gov/) | The home of the U.S. Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. |
+| [data.gov.uz](https://data.gov.uz/) | Open Data Portal of the Republic of Uzbekistan |
 | [Google DataSet Search](https://datasetsearch.research.google.com/) | Soon... |
-| [Unsplash Data](https://unsplash.com/data) | Soon... |
-| [World Bank Open Data](https://data.worldbank.org/) | Soon... |
+| [Unsplash Data](https://unsplash.com/data) | Train and test models using the largest collaborative image dataset ever openly shared. The Unsplash Dataset is created by 250,000+ contributing photographers and billions of searches across thousands of applications, uses, and contexts. |
+| [World Bank Open Data](https://data.worldbank.org/) | World Bank Open Data. Free and open access to global development data |
 
 # Design & Graphic Design Platforms
 
@@ -233,16 +233,16 @@
 
 | Links | Description |
 | ------------- | ------------- |
-| [BASE](https://base-search.net/) | Soon... |
-| [Global Economics](https://theglobaleconomy.com/) | Soon... |
-| [Nature](https://nature.com/) | Soon... |
-| [New Scientist](https://newscientist.com/) | Soon... |
-| [refseek](https://refseek.com/) | Soon... |
-| [RePEc](http://repec.org/) | Soon... |
-| [Science](https://science.org/) | Soon... |
-| [Springer](https://link.springer.com/) | Soon... |
-| [TechniumScience](https://techniumscience.com/) | Soon... |
-| [World Cat](https://worldcat.org/) | Soon... |
+| [BASE](https://base-search.net/) | Bielefeld Academic Search Engine |
+| [The Global Economics](https://theglobaleconomy.com/) | The Global Economy serves researchers, business people, academics, and investors who need reliable economic data on foreign countries. |
+| [Nature](https://nature.com/) | Nature is a British weekly scientific journal founded and based in London, England. As a multidisciplinary publication, Nature features peer-reviewed research from a variety of academic disciplines, mainly in science and technology. It has core editorial offices across the United States, continental Europe, and Asia under the international scientific publishing company Springer Nature. Nature was one of the world's most cited scientific journals by the Science Edition of the 2019 Journal Citation Reports (with an ascribed impact factor of 42.778), making it one of the world's most-read and most prestigious academic journals. As of 2012, it claimed an online readership of about three million unique readers per month. |
+| [New Scientist](https://newscientist.com/) | New Scientist is a magazine covering all aspects of science and technology. Based in London, it publishes weekly English-language editions in the United Kingdom, the United States and Australia. An editorially separate organisation publishes a monthly Dutch-language edition. First published on 22 November 1956, New Scientist has been available in online form since 1996. |
+| [refseek](https://refseek.com/) | Academic search engine for students and researchers. Locates relevant academic search results from web pages, books, encyclopedias, and journals. |
+| [RePEc](http://repec.org/) | Research Papers in Economics (RePEc) is a collaborative effort of hundreds of volunteers in many countries to enhance the dissemination of research in economics. The heart of the project is a decentralized database of working papers, preprints, journal articles, and software components. The project started in 1997.[1] Its precursor NetEc dates back to 1993. |
+| [Science](https://science.org/) | Science/AAAS peer-reviewed journals deliver impactful research, daily news, expert commentary, and career resources. |
+| [Springer](https://link.springer.com/) | Springer Science+Business Media, commonly known as Springer, is a German multinational publishing company of books, e-books and peer-reviewed journals in science, humanities, technical and medical (STM) publishing |
+| [TechniumScience](https://techniumscience.com/) | "Publisher of Open Access Journals & Books designed to make it easy for worldwide researchers to discover leading-edge scientific research. Working closely with the global scientific community has been at the heart of our book and journal publishing activity." - Technium Science |
+| [World Cat](https://worldcat.org/) | WorldCat is a union catalog that itemizes the collections of tens of thousands of institutions (mostly libraries), in many countries, that are current or past members of the OCLC global cooperative. It is operated by OCLC, Inc. Many of the OCLC member libraries collectively maintain WorldCat's database, the world's largest bibliographic database. The database includes other information sources in addition to member library collections. OCLC makes WorldCat itself available free to libraries, but the catalog is the foundation for other subscription OCLC services (such as resource sharing and collection management). WorldCat is used by librarians for cataloging and research and by the general public. |
 
 ## Soon...
 
