@@ -194,12 +194,18 @@
 | [Public APIs](https://github.com/public-apis/public-apis/) | A collective list of free APIs. |
 | [RapidAPI](https://rapidapi.com/hub) | RapidAPI provides a seamless, connected experience to build, consume, manage, and monetize APIs built to support every type of developer. It's have premium APIs. |
 
-## Presentation Templates
+## Designing Platforms
 
 | Links | Description |
 | ------------- | ------------- |
+| [Canva](https://www.canva.com/) | Canva is an Australian graphic design platform that is used to create social media graphics and presentations. The app includes readymade templates for users to use, and the platform is free and offers paid subscriptions such as Canva Pro and Canva for Enterprise for additional functionality. |
 | [Slider Carnival](https://www.slidescarnival.com/) | Free PPT templates & Google Slides themes for your presentations |
-| [RapidAPI](https://rapidapi.com/hub) | RapidAPI provides a seamless, connected experience to build, consume, manage, and monetize APIs built to support every type of developer. It's have premium APIs. |
+
+## Job Search & Job Hire
+
+| Platforms | 
+| ------------- |
+| [Hired](https://hired.com/) |
 
 ## Soon...
 
