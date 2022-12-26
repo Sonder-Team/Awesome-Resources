@@ -9,10 +9,10 @@
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
-- [APIs]()
-- [Design & Graphic Design Platforms]()
-- [Job Find & Job Hire Platforms]()
-- [Open-Souece Projects]()
+- [APIs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#apis)
+- [Design & Graphic Design Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#design--graphic-design-platforms)
+- [Job Find & Job Hire Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#job-search--job-hire-platforms)
+- [Open-Souece Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 
 
 # Education
