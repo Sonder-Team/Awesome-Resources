@@ -9,6 +9,7 @@
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
+- [Data & Data Sets]()
 - [APIs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#apis)
 - [Design & Graphic Design Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#design--graphic-design-platforms)
 - [Job Find & Job Hire Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#job-search--job-hire-platforms)
@@ -191,6 +192,16 @@
 | [Public APIs](https://github.com/public-apis/public-apis/) | A collective list of free APIs. |
 | [RapidAPI](https://rapidapi.com/hub) | RapidAPI provides a seamless, connected experience to build, consume, manage, and monetize APIs built to support every type of developer. It's have premium APIs. |
 
+# Data & Data Sets
+
+| Links | Description |
+| ------------- | ------------- |
+| [data.gov](https://data.gov/) | Soon... |
+| [data.gov.uz](https://data.gov.uz/) | Soon... |
+| [Google DataSet Search](https://datasetsearch.research.google.com/) | Soon... |
+| [Unsplash Data](https://unsplash.com/data) | Soon... |
+| [World Bank Open Data](https://data.worldbank.org/) | Soon... |
+
 # Design & Graphic Design Platforms
 
 | Links | Description |
@@ -203,13 +214,13 @@
 | Links | Description |
 | ------------- | ------------- |
 | 1. | [Hired](https://hired.com/) |
-| 2. | [Job Bank Canada](https://www.jobbank.gc.ca/home) |
-| 3. | [LinkedIn](https://www.linkedin.com/) |
+| 2. | [Job Bank Canada](https://jobbank.gc.ca/home) |
+| 3. | [LinkedIn](https://linkedin.com/) |
 | 4. | [OneApp](https://oneapp.ly/) |
 | 5. | [Triplebyte](https://triplebyte.com/) |
-| 6. | [Touring](https://www.turing.com/) |
+| 6. | [Touring](https://turing.com/) |
 | 7. | [Whitetruffle](https://whitetruffle.com/) |
-| 8. | [Zip Recruiter](https://www.ziprecruiter.com/) |
+| 8. | [Zip Recruiter](https://ziprecruiter.com/) |
 
 # Open-Source Projects
 
@@ -217,6 +228,21 @@
 | ------------- | ------------- |
 | [FOSS Torents](https://fosstorrents.com/) | How goal, at FOSS Torrents, is to help every free and open-source project. Their method is simple: They track new releases, they create torrents which include web seeds, they seed those torrents until a new version is available, and they promote new releases. All of this for free. |
 | [Open Source Agenda](https://opensourceagenda.com/) | Discover the best free open source software projects. Learn more about 707K+ free projects organized in 212K+ topics. |
+
+# Scientific & Research Newspapers and Resources
+
+| Links | Description |
+| ------------- | ------------- |
+| [BASE](https://base-search.net/) | Soon... |
+| [Global Economics](https://theglobaleconomy.com/) | Soon... |
+| [Nature](https://nature.com/) | Soon... |
+| [New Scientist](https://newscientist.com/) | Soon... |
+| [refseek](https://refseek.com/) | Soon... |
+| [RePEc](http://repec.org/) | Soon... |
+| [Science](https://science.org/) | Soon... |
+| [Springer](https://link.springer.com/) | Soon... |
+| [TechniumScience](https://techniumscience.com/) | Soon... |
+| [World Cat](https://worldcat.org/) | Soon... |
 
 ## Soon...
 
