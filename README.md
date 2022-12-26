@@ -86,7 +86,7 @@
 | Links | Description |
 | ------------- | ------------- |
 | [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/main/README.md) | If you want to work as a software engineer for a large company, this link for you. |
-| [Coding Interview University (Uzbek)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) | Soon... |
+| [Coding Interview University (Uzbek)](https://github.com/jwasham/coding-interview-university/blob/main/translations/README-uz.md) | Coding Interview University in Uzbek |
 | [formation](https://formation.dev/) | Formation is a virtual fellowship program for software engineers who seek impactful roles and career growth at top-tier tech companies. |
 | [Tech Mock Interview](https://techmockinterview.com/) | They offer a variety of interview types that include coding interviews, system design interviews, behavioral interviews, software development management (SDM) interviews, and Technical Program Manager (TPM) interviews. Each of their packages are tailored to the exact job you are applying for and are guaranteed to give you insight into the interview that you will not be able to find elsewhere. Their mock phone interviews along with their verbal and written feedback will help you practice the skills you will need to shine during the entire interview process and stand out as a top candidate. |
 
