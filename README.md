@@ -212,6 +212,7 @@
 | [data.gov](https://data.gov/) | The home of the U.S. Government’s open data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. |
 | [data.gov.uz](https://data.gov.uz/) | Open Data Portal of the Republic of Uzbekistan |
 | [Google DataSet Search](https://datasetsearch.research.google.com/) | Soon... |
+| [UCI](https://archive.ics.uci.edu/ml/index.php) | "We currently maintain 622 data sets as a service to the machine learning community. You may view all data sets through our searchable interface." - UCI |
 | [Unsplash Data](https://unsplash.com/data) | Train and test models using the largest collaborative image dataset ever openly shared. The Unsplash Dataset is created by 250,000+ contributing photographers and billions of searches across thousands of applications, uses, and contexts. |
 | [World Bank Open Data](https://data.worldbank.org/) | World Bank Open Data. Free and open access to global development data |
 
