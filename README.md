@@ -9,6 +9,7 @@
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)
+      [Roadmaps]()
 - [Data & Data Sets](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data--data-sets)
 - [APIs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#apis)
 - [Design & Graphic Design Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#design--graphic-design-platforms)
@@ -37,12 +38,9 @@
 | [MIT OpenCourseWare](https://ocw.mit.edu/) | MIT OpenCourseWare (MIT OCW) is an initiative of the Massachusetts Institute of Technology (MIT) to publish all of the educational materials from its undergraduate- and graduate-level courses online, freely and openly available to anyone, anywhere. The project was announced on April 4, 2001, and uses Creative Commons Attribution-NonCommercial-ShareAlike license. The program was originally funded by the William and Flora Hewlett Foundation, the Andrew W. Mellon Foundation, and MIT. Currently, MIT OpenCourseWare is supported by MIT, corporate underwriting, major gifts, and donations from site visitors. The initiative inspired a number of other institutions to make their course materials available as open educational resources. |
 | [MIT Open Library](https://openlearninglibrary.mit.edu/) | The MIT Open Learning Library is home to selected educational content from MIT OpenCourseWare and MITx courses, available to anyone in the world at any time. All material is free to use. Some resources, particularly those from MIT OpenCourseWare, are free to download, remix, and reuse for non-commercial purposes. |
 | [MOOC Fi](https://www.mooc.fi/en/) | The courses are hosted by University of Helsinki MOOC Center. No prior knowledge is required — beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of A.I. |
-| [Open Source Agenda CS](https://opensourceagenda.com/projects/cs-roadmap) | Computer Science Roadmap |
 | [OSSU](https://github.com/orgs/ossu/repositories) | Empowering learners to master college curricula through free resources. Choose a major and start today! |
-| [OSSU CS](https://ossu.firebaseapp.com/) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
 | [PBS Learning Media]() | PBS LearningMedia is a FREE comprehensive media-on-demand digital content library that offers PreK-12 classrooms a flexible way to integrate media into daily instruction. PBS LearningMedia engages educators and learners at all levels with content from America's #1 Educational Media Brand. |
 | [Stanford Online](https://online.stanford.edu/) | Stanford Online is an educational initiative launched by Stanford University which offers a variety of professional education opportunities. As a part of Stanford Online, Stanford University created an open access OpenEdX platform which offered a variety of massive open online courses (MOOCs) in 2013, but that site is no longer accessible. Online classes previously offered on that platform can now be accessed on an updated platform known as edx that offers a wide range of online courses covering many topics. Some of the online classes offered by Stanford Online on this platform are available free of charge. Classes can be accessed from anywhere around the world. |
-| [Tech Yourself CS](https://teachyourselfcs.com/) | If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program.  There are plenty of resources out there, but some are better than others. |
 
 ## Resources for Specific Areas
 
@@ -197,6 +195,15 @@
 | ------------- | ------------- |
 | [GoalKicker](https://goalkicker.com/) | Free Programming Books on Android development, C, C#, CSS, HTML5, iOS development, Java, JavaScript, PowerShell, PHP, Python, SQL Sever and more. |
 | [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
+
+## Roadmaps
+
+| Links | Description |
+| ------------- | ------------- |
+| [Open Source Agenda CS](https://opensourceagenda.com/projects/cs-roadmap) | Computer Science Roadmap |
+| [OSSU CS](https://ossu.firebaseapp.com/) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
+| [roadmap.sh](https://roadmap.sh/) | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. |
+| [Tech Yourself CS](https://teachyourselfcs.com/) | If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program.  There are plenty of resources out there, but some are better than others. |
 
 # API's
 
