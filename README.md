@@ -199,7 +199,7 @@
 
 ## Roadmaps
 
-- [Roadmaps to Technology Oriented Jobs]()
+- [Roadmaps to Technology Oriented Jobs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#roadmaps-to-technology-oriented-jobs)
 
 ### Roadmaps to Technology Oriented Jobs
 
