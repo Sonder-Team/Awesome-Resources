@@ -13,6 +13,7 @@
 - [Data & Data Sets](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data--data-sets)
 - [APIs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#apis)
 - [Design & Graphic Design Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#design--graphic-design-platforms)
+- [Internships]()
 - [Job Find & Job Hire Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#job-search--job-hire-platforms)
 - [Open-Souece Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 - [Scientific & Research Newspapers and Resources](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#scientific--research-newspapers-and-resources)
@@ -229,6 +230,14 @@
 | ------------- | ------------- |
 | [Canva](https://www.canva.com/) | Canva is an Australian graphic design platform that is used to create social media graphics and presentations. The app includes readymade templates for users to use, and the platform is free and offers paid subscriptions such as Canva Pro and Canva for Enterprise for additional functionality. |
 | [Slider Carnival](https://www.slidescarnival.com/) | Free PPT templates & Google Slides themes for your presentations |
+
+# Internships
+
+| Links | Description |
+| ------------- | ------------- |
+| [almaszaurbekov](https://github.com/almaszaurbekov/2023-faang-internships/blob/main/README.md) | FAANG & Startups Internships. |
+| [pittcsc](https://github.com/pittcsc/Summer2023-Internships) | Summer 2023 Internships. |
+| [Samuel NTA Gyamfi](https://github.com/Onlyartist9/European-Tech-Internships-2023) | European Tech Internships 2023 |
 
 # Job Search & Job Hire Platforms
 
