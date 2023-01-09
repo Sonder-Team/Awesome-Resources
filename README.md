@@ -199,11 +199,17 @@
 
 ## Roadmaps
 
+- Roadmaps to Data Science
+
 | Links | Description |
 | ------------- | ------------- |
+| [roadmap.sh](https://roadmap.sh/) | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. |
+| [academic](https://github.com/academic/awesome-datascience#awesome-data-science) | "Awesome Data Science." - academic. |
+| [jonathan-bower](https://github.com/jonathan-bower/DataScienceResources) | Data Science Resources. |
+| [MrMimic](https://github.com/MrMimic/data-scientist-roadmap) | Data Scientist Roadmap. |
 | [Open Source Agenda CS](https://opensourceagenda.com/projects/cs-roadmap) | Computer Science Roadmap |
 | [OSSU CS](https://ossu.firebaseapp.com/) | The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners. |
-| [roadmap.sh](https://roadmap.sh/) | roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings. |
+| [tirthajyoti](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md) | Data Science Collected Resources. | 
 | [Tech Yourself CS](https://teachyourselfcs.com/) | If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program.  There are plenty of resources out there, but some are better than others. |
 
 # API's
