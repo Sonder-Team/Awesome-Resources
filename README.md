@@ -13,7 +13,7 @@
 - [Data & Data Sets](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data--data-sets)
 - [APIs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#apis)
 - [Design & Graphic Design Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#design--graphic-design-platforms)
-- [Internships]()
+- [Internships](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#internships)
 - [Job Find & Job Hire Platforms](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#job-search--job-hire-platforms)
 - [Open-Souece Projects](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#open-source-projects)
 - [Scientific & Research Newspapers and Resources](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#scientific--research-newspapers-and-resources)
