@@ -21,6 +21,7 @@
 
 # Education
 ## General Resources for Education
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -44,6 +45,7 @@
 | [Stanford Online](https://online.stanford.edu/) | Stanford Online is an educational initiative launched by Stanford University which offers a variety of professional education opportunities. As a part of Stanford Online, Stanford University created an open access OpenEdX platform which offered a variety of massive open online courses (MOOCs) in 2013, but that site is no longer accessible. Online classes previously offered on that platform can now be accessed on an updated platform known as edx that offers a wide range of online courses covering many topics. Some of the online classes offered by Stanford Online on this platform are available free of charge. Classes can be accessed from anywhere around the world. |
 
 ## Resources for Specific Areas
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 - [Computer Science & Technology](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#computer-science--technology)
 - [Economics & Finance](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#economics--finance)
@@ -55,6 +57,7 @@
 - [Others](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#others)
 
 ### Computer Science & Technology
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 - [Algorithms & Data Structures](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#algorithms--data-structures)
 - [Data Analytics & Data Science & A.I.](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#data-analytics--data-science--ai)
@@ -62,6 +65,7 @@
 - [Web Design & Web Development](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#web-design--web-development)
 
 #### Algorithms & Data Structures
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -75,6 +79,7 @@
 | [Visualgo](https://visualgo.net/) | Visualising data structures and algorithms through animation. |
 
 #### Data Analytics & Data Science & A.I.
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -94,6 +99,7 @@
 | [Univ.AI](https://www.univ.ai/) | Train with Harvard & UCLA lecturers in A.I. |
 
 #### Prepeare for Interview 
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -103,6 +109,7 @@
 | [Tech Mock Interview](https://techmockinterview.com/) | They offer a variety of interview types that include coding interviews, system design interviews, behavioral interviews, software development management (SDM) interviews, and Technical Program Manager (TPM) interviews. Each of their packages are tailored to the exact job you are applying for and are guaranteed to give you insight into the interview that you will not be able to find elsewhere. Their mock phone interviews along with their verbal and written feedback will help you practice the skills you will need to shine during the entire interview process and stand out as a top candidate. |
 
 #### Web Design & Web Development
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ---------- | ---------- |
@@ -127,6 +134,7 @@
 | [w3school](https://www.w3schools.com/) | W3Schools is a freemium educational website for learning coding online. Initially released in 1998, it derives its name from the World Wide Web but is not affiliated with the W3 Consortium. W3Schools offers courses covering all aspects of web development. W3Schools also publishes free HTML templates. It is run by Refsnes Data in Norway. It has an online text editor called TryIt Editor, and readers can edit examples and run the code in a test environment. |
 
 ### Economics & Finance
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -134,11 +142,13 @@
 | [efi](https://www.econfun.org/en) | Click! Download! Read! Watch! EFI takes the mystery out of economics, introducing you to key principles through the book “Common Sense Economics”, short videos and articles. You can take part in our competitions for schools and universities – perhaps you are the next winner of the International Economics Olympiad. All you need to invest is your time. In return, you’ll gain knowledge for life! |
 
 ### Language
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 - [Learn English](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-english)
 - [Learn German](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#learn-german)
 
 #### Learn English
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -150,12 +160,14 @@
 | [Voice of America](https://learningenglish.voanews.com/) | VOA Learning English has multiple daily newscasts and 14 weekly features. These include reports on agriculture, economics, health and current events. Other programs explore American society, U.S. history, idiomatic expressions, science, and arts and entertainment. |
 
 #### Learn German
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
 | [vhs-Learnportal](https://abc.vhs-lernportal.de/) | The vhs learning portal is the free digital learning offer of the German Adult Education Association (DVV) for German as a second language, for literacy and basic education. |
 
 ### Medicine
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -163,6 +175,7 @@
 | [OpenWHO](https://openwho.org/) | OpenWHO is WHO’s interactive, web-based, knowledge-transfer platform offering online courses to improve the response to health emergencies. OpenWHO enables the Organization and its key partners to transfer life-saving knowledge to large numbers of frontline responders. |
 
 ### Mentorship Platform 
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -170,6 +183,7 @@
 | [SchoolHouse](https://schoolhouse.world/) | Schoolhouse.world is a platform for free, peer-to-peer tutoring–where anyone, anywhere can receive live help, build their skills, and pay it forward by becoming a tutor themselves. |
 
 ### Physics
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -178,12 +192,14 @@
 | [Susan Fowler](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | Roadmap to learn physics by Susan Rigetti. |
 
 ### Science
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
 | [New Scientist Academy](https://academy.newscientist.com/) | Explore the hottest topics in science. Choose one of the online science courses to learn from world-class educators about life, the universe and what it means to be human. Take your science education into your own hands with our CPD-accredited online courses. |
 
 ### Others
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -191,6 +207,7 @@
 | [Mullen Memory](https://mullenmemory.com/) | Our goal is to find better ways of creating durable knowledge. As professional learners, we care about the nuances that make students powerful learners. This website is our way of exploring habits for efficient learning and the scientific evidence that backs them up. We tackle various learning projects—from medicine to language-learning—sharing our successes and failures. We believe learning how to learn is a lifelong journey of growth and joy, which is why we're a nonprofit dedicated to creating free, accessible content.  |
 
 ## eBooks & Textbooks
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -198,6 +215,7 @@
 | [Open Stax](https://openstax.org/) | OpenStax (formerly OpenStax College) is a nonprofit educational technology initiative based at Rice University. Since 2012, OpenStax has created peer-reviewed, openly-licensed textbooks, which are available in free digital formats and for a low cost in print. Most books are also available in Kindle versions on Amazon.com and in the iBooks Store. OpenStax's first textbook was College Physics, which was published online, in print, and in iBooks in 2012. OpenStax launched OpenStax Tutor Beta in June 2017, adaptive courseware based on cognitive science principles, machine learning, and OpenStax content. However, announced in October 2022 that Tutor was being discontinued. |
 
 ## Roadmaps
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 - [Roadmaps to Technology Oriented Jobs](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#roadmaps-to-technology-oriented-jobs)
 
@@ -215,6 +233,7 @@
 | [Tech Yourself CS](https://teachyourselfcs.com/) | If you’re a self-taught engineer or bootcamp grad, you owe it to yourself to learn computer science. Thankfully, you can give yourself a world-class CS education without investing years and a small fortune in a degree program.  There are plenty of resources out there, but some are better than others. |
 
 # API's
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -222,6 +241,7 @@
 | [RapidAPI](https://rapidapi.com/hub) | RapidAPI provides a seamless, connected experience to build, consume, manage, and monetize APIs built to support every type of developer. It's have premium APIs. |
 
 # Data & Data Sets
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -233,6 +253,7 @@
 | [World Bank Open Data](https://data.worldbank.org/) | World Bank Open Data. Free and open access to global development data |
 
 # Design & Graphic Design Platforms
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -240,6 +261,7 @@
 | [Slider Carnival](https://www.slidescarnival.com/) | Free PPT templates & Google Slides themes for your presentations |
 
 # Internships
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -248,6 +270,7 @@
 | [Samuel NTA Gyamfi](https://github.com/Onlyartist9/European-Tech-Internships-2023) | European Tech Internships 2023 |
 
 # Job Search & Job Hire Platforms
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | № | Links |
 | ------------- | ------------- |
@@ -261,6 +284,7 @@
 | 8. | [Zip Recruiter](https://ziprecruiter.com/) |
 
 # Open-Source Projects
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
@@ -268,6 +292,7 @@
 | [Open Source Agenda](https://opensourceagenda.com/) | Discover the best free open source software projects. Learn more about 707K+ free projects organized in 212K+ topics. |
 
 # Scientific & Research Newspapers and Resources
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
 | Links | Description |
 | ------------- | ------------- |
