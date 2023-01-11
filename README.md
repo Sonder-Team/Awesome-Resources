@@ -19,7 +19,7 @@
 - [Scientific & Research Newspapers and Resources](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#scientific--research-newspapers-and-resources)
 
 
-# Education
+# Education 
 ## General Resources for Education
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
 
