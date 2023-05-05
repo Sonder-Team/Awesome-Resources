@@ -30,7 +30,6 @@
 | [edX](https://www.edx.org/)  | edX is an American massive open online course (MOOC) provider created by Harvard and MIT. It hosts online university-level courses in a wide range of disciplines to a worldwide student body, including some courses at no charge. It also conducts research into learning based on how people use its platform. edX runs on the free Open edX open-source software platform. 2U is the parent company, with edX operating as its global online learning platform and primary brand for products and services.  |
 | [FutureLearn](https://www.futurelearn.com) | FutureLearn is a British digital education platform founded in December 2012. The company is jointly owned by The Open University and SEEK Ltd. It is a Massive Open Online Course (MOOC), ExpertTrack, microcredential and Degree learning platform. As of November included over 250 UK and international partners, including industry and government partners. In July 2022, accounts filed at Companies House reported that, in the opinion of the board, there was "material uncertainty" as to whether the company could continue as a going concern for the next 12 months. |
 | [GetSmarter](https://www.getsmarter.com/) | GetSmarter, a wholly-owned subsidiary of 2U is a digital education company that partners with the world's leading universities to select, design and deliver premium online short courses with a data-driven focus on learning gain. It's a full premium content |
-| [Google Codelabs](https://codelabs.developers.google.com/) | "Google Developers Codelabs provide a guided, tutorial, hands-on coding experience. Most codelabs will step you through the process of building a small application, or adding a new feature to an existing application. They cover a wide range of topics such as Android Wear, Google Compute Engine, ARCore, and Google APIs on iOS." - Google |
 | [Google CS First](https://csfirst.withgoogle.com/) | "A computer science curriculum that makes coding easy to teach and fun to learn." - Google |
 | [Harvard](https://pll.harvard.edu/) | Free and Paid Harvard University Courses. |
 | [Harvard Online](https://www.harvardonline.harvard.edu/) | Harvard Online presents curated online courses that combine faculty and disciplines from across the University, connecting learners around the globe with the world’s most urgent issues. |
@@ -251,7 +250,7 @@
 | [Google DataSet Search](https://datasetsearch.research.google.com/) | Soon... |
 | [UCI](https://archive.ics.uci.edu/ml/index.php) | "We currently maintain 622 data sets as a service to the machine learning community. You may view all data sets through our searchable interface." - UCI |
 | [Unsplash Data](https://unsplash.com/data) | Train and test models using the largest collaborative image dataset ever openly shared. The Unsplash Dataset is created by 250,000+ contributing photographers and billions of searches across thousands of applications, uses, and contexts. |
-| [World Bank Open Data](https://data.worldbank.org/) | World Bank Open Data. Free and open access to global development data |
+| [World Bank Open Data](https://data.worldbank.org/) | World Bank Open Data. Free and open access to global development data. |
 
 # Design & Graphic Design Platforms
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
