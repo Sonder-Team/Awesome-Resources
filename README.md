@@ -312,6 +312,8 @@
 | [Dive Into Deep Learning](http://d2l.ai/) | ... |
 | [mlcourse.ai](https://mlcourse.ai/book/index.html) | ... |
 | [fast.ai](https://course.fast.ai/) | ... |
+| [Protein DS](https://alphafold.ebi.ac.uk/entry/M9PA18) | ... |
+| [Neural Network Playground](https://playground.tensorflow.org/) | ... |
 
 ## Soon...
 
