@@ -314,6 +314,45 @@
 | [fast.ai](https://course.fast.ai/) | ... |
 | [Protein DS](https://alphafold.ebi.ac.uk/entry/M9PA18) | ... |
 | [Neural Network Playground](https://playground.tensorflow.org/) | ... |
+| [] | ... |
+| [] | ... |
+| [] | ... |
+| [] | ... |
+| [] | ... |
+https://www.freecodecamp.org/news/best-computer-science-courses/
+https://github.com/DjangoEx/python-backend-roadmap
+https://www.freecodecamp.org/news/data-science-learning-roadmap/
+#free #hosting
+
+http://glitch.com/
+https://pages.github.com/
+https://fleek.co/
+https://netlify.com/
+https://render.com/
+http://surge.com/
+https://vercel.com/
+http://hostman.com/
+https://pages.cloudflare.com/
+https://www.w3schools.com/spaces/
+https://www.heroku.com/home
+https://firebase.google.com/
+https://digitalocean.com/
+https://about.gitlab.com/
+https://aws.amazon.com/s3/?did=ft_card&trk=ft_card
+Github:
+
+1. https://github.com/mustafababil/Telegram-Weather-Bot
+2. https://github.com/dome272/Telegram-Reminder-Bot
+3. https://github.com/OdiljonMIPT/python_bot
+
+https://youtu.be/ZNN-Pn73Vj4
+https://bitdegree.org/
+https://web.stanford.edu/class/cs101/index.html
+https://data-flair.training/
+https://machinelearningprojects.net/flask-projects/
+https://online.datasciencedojo.com/blogs/data-sets-data-science-skills
+https://realestate.withgoogle.com/
+https://ravesli.com/70-besplatnyh-resursov-dlya-izucheniya-programmirovaniya/
 
 ## Soon...
 
