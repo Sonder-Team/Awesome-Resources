@@ -353,6 +353,7 @@ https://machinelearningprojects.net/flask-projects/
 https://online.datasciencedojo.com/blogs/data-sets-data-science-skills
 https://realestate.withgoogle.com/
 https://ravesli.com/70-besplatnyh-resursov-dlya-izucheniya-programmirovaniya/
+https://replit.com/learn/ai-camp-unlock-llms
 
 ## Soon...
 
