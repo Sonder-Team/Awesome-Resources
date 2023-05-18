@@ -13,7 +13,7 @@
 - [University Courses](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#university-courses)
 
 ## University Courses
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
