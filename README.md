@@ -11,6 +11,7 @@
 # Education
 
 - [University Courses](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#university-courses)
+- [Professional and Career Courses](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#professional-and-career-courses)
 
 ## University Courses
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
@@ -32,6 +33,13 @@
 | [OSSU](https://github.com/orgs/ossu/repositories) | The Open Source Society University (OSSU) is a collaborative and community-driven initiative that offers a complete curriculum in computer science and software engineering. OSSU provides a structured pathway of courses and resources, following a comprehensive and rigorous curriculum similar to that of traditional university programs. It offers free access to educational materials, including textbooks, online courses, and coding projects, allowing individuals to acquire knowledge and skills in computer science at their own pace. OSSU fosters self-directed learning and provides a supportive community for learners to connect, collaborate, and share their progress. It serves as a valuable resource for aspiring computer science professionals seeking a well-rounded education. | 
 | [Stanford Online](https://online.stanford.edu/) | Stanford Online is the online learning initiative of Stanford University, offering a diverse range of courses and programs across various disciplines. It provides learners worldwide with the opportunity to access high-quality education from Stanford's renowned faculty. Stanford Online offers both self-paced and instructor-led courses, covering subjects such as computer science, engineering, business, arts, and more. Learners can acquire new skills, expand their knowledge, and earn certificates upon successful completion of courses. With its flexible and accessible learning platform, Stanford Online aims to democratize education and empower individuals to pursue their educational goals from anywhere in the world. |
 | [Stanford Engineering Everywhere](https://see.stanford.edu/) | Stanford Engineering Everywhere (SEE) is an initiative by Stanford University that offers free online access to engineering courses. SEE provides individuals around the world with the opportunity to learn from Stanford's esteemed engineering faculty through video lectures, assignments, and exams. The platform covers a wide range of engineering subjects, including computer science, electrical engineering, and mechanical engineering. Learners can access course materials and follow the curriculum at their own pace. Stanford Engineering Everywhere aims to make quality engineering education accessible to everyone and serves as a valuable resource for individuals interested in expanding their knowledge and skills in engineering. |
+
+## Professional and Career Courses
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+
+| Links  | Description |
+| ------------- | ------------- |
+| [Soon]()  | ... |
 
 ## Soon...
 
