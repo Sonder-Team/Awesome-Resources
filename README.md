@@ -37,6 +37,12 @@
 ## Professional and Career Courses
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
+- [Economics and Finance]()
+- [Exact and Natural Sciences]()
+- [Information Technology]()
+- [Medicine]()
+- [Free eBooks]()
+
 | Links  | Description |
 | ------------- | ------------- |
 | [Soon]()  | ... |
