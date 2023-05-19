@@ -43,6 +43,27 @@
 - [Medicine]()
 - [Free eBooks]()
 
+## Economics and Finance
+
+| Links  | Description |
+| ------------- | ------------- |
+| [CFI](https://corporatefinanceinstitute.com/)  | Corporate Finance Institute (CFI) is a leading provider of online financial training and certification programs. They specialize in delivering comprehensive courses in corporate finance, financial modeling, valuation, accounting, and other essential finance topics. CFI's programs are designed to equip professionals with the knowledge and skills needed to excel in the world of finance. Their interactive and practical approach, combined with real-world examples, helps learners grasp complex financial concepts effectively. With a commitment to high-quality education, CFI aims to empower individuals and organizations with the tools and expertise necessary for making informed financial decisions and driving business success. |
+| [EFI](https://www.econfun.org/en) |  EFI takes the mystery out of economics, introducing you to key principles through the book “Common Sense Economics”, short videos and articles. You can take part in our competitions for schools and universities – perhaps you are the next winner of the International Economics Olympiad. All you need to invest is your time. In return, you’ll gain knowledge for life! |
+
+## Excat and Natural Sciences
+
+| Links  | Description |
+| ------------- | ------------- |
+| [Soon]()  | ... |
+
+## Information Technology
+
+| Links  | Description |
+| ------------- | ------------- |
+| [Soon]()  | ... |
+
+## Medicine
+
 | Links  | Description |
 | ------------- | ------------- |
 | [Soon]()  | ... |
