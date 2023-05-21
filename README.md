@@ -83,7 +83,8 @@
 
 | Links  | Description |
 | ------------- | ------------- |
-| [Soon]()  | ... |
+| [Ninja Nerd](https://ninjanerd.org/)  | Ninja Nerd is an educational platform that focuses on providing engaging and informative content in the field of science and healthcare. Led by an experienced team of healthcare professionals, Ninja Nerd offers online courses, tutorials, and video lectures covering topics such as anatomy, physiology, pharmacology, and pathology. With a dynamic teaching style and visually appealing presentations, Ninja Nerd aims to simplify complex scientific concepts, making them accessible and enjoyable for learners. Their educational resources are designed to empower students, healthcare professionals, and enthusiasts to deepen their understanding and excel in their academic and professional pursuits. |
+| [Open WHO](https://openwho.org/) | Open WHO is an online platform developed by the World Health Organization (WHO) that provides free and open-access training and learning resources related to public health. It offers a wide range of courses, guidelines, tools, and educational materials on various topics, including disease outbreaks, emergencies, health systems, and more. Open WHO aims to enhance the knowledge and skills of health professionals, policymakers, and the general public in addressing global health challenges. The platform promotes collaboration, knowledge sharing, and capacity building, enabling individuals and organizations to access reliable information and resources to improve public health practices worldwide. |
 
 ## Soon...
 
