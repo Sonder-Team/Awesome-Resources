@@ -38,14 +38,15 @@
 ## Professional and Career Courses
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
-- [General Ed]()
-- [Economics and Finance]()
-- [Exact and Natural Sciences]()
-- [Information Technology]()
-- [Medicine]()
+- [General Ed](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#general-education)
+- [Economics and Finance](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#economics-and-finance)
+- [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#exact-and-natural-science)
+- [Information Technology](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#information-technology)
+- [Medicine](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#medicine)
 - [Free eBooks]()
 
 ## General Education
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -54,6 +55,7 @@
 | [PBS Learning Media](https://pbslearningmedia.org/) | PBS Learning Media is an online educational platform that provides free access to a vast collection of educational resources for students, teachers, and parents. Created by the Public Broadcasting Service (PBS), the platform offers a wide range of multimedia content, including videos, interactive lessons, games, and activities, covering various subjects and grade levels. PBS Learning Media aims to support and enhance classroom instruction by providing engaging and curriculum-aligned materials that promote critical thinking, creativity, and active learning. It serves as a valuable tool for educators to supplement their teaching and for students and parents to explore educational content that is both informative and entertaining. |
 
 ## Economics and Finance
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -61,6 +63,7 @@
 | [EFI](https://www.econfun.org/en) |  EFI is an interactive educational platform that offers a playful and engaging way to learn about economics. It provides a collection of online games, simulations, and exercises that allow users to explore various economic concepts and principles. Through hands-on activities, EFI aims to demystify economics and make it accessible to a wide audience. It covers topics like supply and demand, market equilibrium, fiscal policy, and more. By blending entertainment with educational content, EFI provides a unique and enjoyable learning experience that promotes a deeper understanding of economic theory and its practical applications. |
 
 ## Excat and Natural Sciences
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -69,12 +72,14 @@
 | [New Scientist Academy](https://academy.newscientist.com/) | New Scientist Academy is an online learning platform that offers a wide range of science courses and educational resources. It aims to provide accessible and engaging science education to learners of all levels, from beginners to professionals. The platform features expert-led courses, interactive modules, and multimedia content covering various scientific disciplines, including physics, biology, chemistry, and more. New Scientist Academy enables learners to expand their knowledge, stay updated with the latest scientific discoveries, and enhance their critical thinking and analytical skills. With a focus on high-quality scientific education, it fosters a deeper understanding of the world and promotes lifelong learning in the field of science. |
 
 ## Information Technology
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
 | [Soon]()  | ... |
 
 ## Medicine
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
