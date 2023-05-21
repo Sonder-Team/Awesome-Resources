@@ -62,7 +62,7 @@
 | [CFI](https://corporatefinanceinstitute.com/)  | Corporate Finance Institute (CFI) is a leading provider of online financial training and certification programs. They specialize in delivering comprehensive courses in corporate finance, financial modeling, valuation, accounting, and other essential finance topics. CFI's programs are designed to equip professionals with the knowledge and skills needed to excel in the world of finance. Their interactive and practical approach, combined with real-world examples, helps learners grasp complex financial concepts effectively. With a commitment to high-quality education, CFI aims to empower individuals and organizations with the tools and expertise necessary for making informed financial decisions and driving business success. |
 | [EFI](https://www.econfun.org/en) |  EFI is an interactive educational platform that offers a playful and engaging way to learn about economics. It provides a collection of online games, simulations, and exercises that allow users to explore various economic concepts and principles. Through hands-on activities, EFI aims to demystify economics and make it accessible to a wide audience. It covers topics like supply and demand, market equilibrium, fiscal policy, and more. By blending entertainment with educational content, EFI provides a unique and enjoyable learning experience that promotes a deeper understanding of economic theory and its practical applications. |
 
-## Excat and Natural Sciences
+## Exact and Natural Sciences
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
 
 | Links  | Description |
