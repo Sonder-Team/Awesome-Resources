@@ -40,7 +40,7 @@
 
 - [General Ed](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#general-education)
 - [Economics and Finance](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#economics-and-finance)
-- [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#exact-and-natural-science)
+- [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#exact-and-natural-sciences)
 - [Information Technology](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#information-technology)
 - [Medicine](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#medicine)
 - [Free eBooks]()
