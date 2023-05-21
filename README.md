@@ -49,8 +49,9 @@
 
 | Links  | Description |
 | ------------- | ------------- |
-| [Khan Academy](https://khanacademy.org/) | ... |
-| [PBS Learning Media](https://pbslearningmedia.org/) | ... |
+| [Khan Academy](https://khanacademy.org/) | Khan Academy is a non-profit educational organization that offers a vast collection of free online courses and resources covering a wide range of subjects. Founded by Salman Khan, it provides an accessible platform for learners of all ages to access high-quality educational content. Khan Academy offers interactive lessons, practice exercises, and personalized learning tools to support self-paced learning. It covers subjects such as math, science, humanities, computer programming, test preparation, and more. With its mission to provide a free world-class education to anyone, anywhere, Khan Academy has become a popular and valuable resource for students, educators, and lifelong learners worldwide. |
+| [Envato Tuts+](https://tutsplus.com/) | Envato Tuts+ is an online learning platform that offers a vast library of high-quality tutorials, courses, and educational resources on various creative and technical topics. It provides in-depth and accessible content covering areas such as web development, design, photography, audio production, and more. Envato Tuts+ aims to empower learners, from beginners to experienced professionals, by providing them with practical skills, industry insights, and creative inspiration. With a focus on practical application and hands-on learning, Envato Tuts+ serves as a valuable resource for individuals looking to enhance their creative and technical abilities in a flexible and self-paced online learning environment. |
+| [PBS Learning Media](https://pbslearningmedia.org/) | PBS Learning Media is an online educational platform that provides free access to a vast collection of educational resources for students, teachers, and parents. Created by the Public Broadcasting Service (PBS), the platform offers a wide range of multimedia content, including videos, interactive lessons, games, and activities, covering various subjects and grade levels. PBS Learning Media aims to support and enhance classroom instruction by providing engaging and curriculum-aligned materials that promote critical thinking, creativity, and active learning. It serves as a valuable tool for educators to supplement their teaching and for students and parents to explore educational content that is both informative and entertaining. |
 
 ## Economics and Finance
 
@@ -63,7 +64,9 @@
 
 | Links  | Description |
 | ------------- | ------------- |
-| [Soon]()  | ... |
+| [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models) | ... |
+| [Feynman Lectures](https://feynmanlectures.caltech.edu/)  | The Feynman Lectures on Physics is a celebrated collection of physics lectures delivered by Nobel laureate Richard P. Feynman. Originally given as a course at Caltech in the early 1960s, the lectures provide a comprehensive and engaging introduction to various topics in physics, from classical mechanics to quantum mechanics and electromagnetism. Feynman's exceptional teaching style and ability to simplify complex concepts make the lectures highly accessible and enjoyable for both students and enthusiasts. The Feynman Lectures on Physics have become a classic educational resource, inspiring countless individuals to explore and appreciate the wonders of the physical world. |
+| [New Scientist Academy](https://academy.newscientist.com/) | New Scientist Academy is an online learning platform that offers a wide range of science courses and educational resources. It aims to provide accessible and engaging science education to learners of all levels, from beginners to professionals. The platform features expert-led courses, interactive modules, and multimedia content covering various scientific disciplines, including physics, biology, chemistry, and more. New Scientist Academy enables learners to expand their knowledge, stay updated with the latest scientific discoveries, and enhance their critical thinking and analytical skills. With a focus on high-quality scientific education, it fosters a deeper understanding of the world and promotes lifelong learning in the field of science. |
 
 ## Information Technology
 
