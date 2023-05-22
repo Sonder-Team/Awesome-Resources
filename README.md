@@ -77,7 +77,8 @@
 
 | Links  | Description |
 | ------------- | ------------- |
-| [Soon]()  | ... |
+| [DataCamp](https://datacamp.com/)  | DataCamp is an online learning platform focused on data science and analytics. It offers interactive courses and projects that help individuals develop practical skills in areas such as programming, data manipulation, data visualization, machine learning, and more. DataCamp's curriculum is designed to be hands-on and engaging, with a combination of video lessons and interactive coding exercises. Learners can practice their skills directly in the browser using real-world datasets. With its user-friendly interface and comprehensive content, DataCamp provides a convenient and effective platform for individuals to acquire and enhance their data science knowledge and abilities. |
+| [Dataquest](https://dataquest.io/) | Dataquest is an online learning platform that specializes in data science education. It offers interactive courses and projects designed to help individuals develop practical data skills. Through a combination of hands-on coding exercises, real-world projects, and personalized feedback, Dataquest empowers learners to acquire the technical knowledge and analytical abilities necessary for a career in data science. The platform covers a wide range of topics, including Python programming, data manipulation, statistical analysis, machine learning, and data visualization. With its accessible and self-paced learning environment, Dataquest enables individuals to gain expertise in data science at their own convenience. |
 
 ## Medicine
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
