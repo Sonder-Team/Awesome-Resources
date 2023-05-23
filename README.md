@@ -6,8 +6,7 @@
 # Contents
 
 - [Education](https://github.com/shamsiddin-abbasov/essential-links/tree/main#education)
-- [Open-Source Projects]()
-- [Scientific Publications & Research Papers]()
+- [Scientific Publications & Research Papers](https://github.com/shamsiddin-abbasov/essential-links#scientific-publications--research-papers)
 
 # Education
 
