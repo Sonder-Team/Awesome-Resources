@@ -109,6 +109,7 @@
 | [Open WHO](https://openwho.org/) | Open WHO is an online platform developed by the World Health Organization (WHO) that provides free and open-access training and learning resources related to public health. It offers a wide range of courses, guidelines, tools, and educational materials on various topics, including disease outbreaks, emergencies, health systems, and more. Open WHO aims to enhance the knowledge and skills of health professionals, policymakers, and the general public in addressing global health challenges. The platform promotes collaboration, knowledge sharing, and capacity building, enabling individuals and organizations to access reliable information and resources to improve public health practices worldwide. |
 
 ## Scientific Publications & Research Papers
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
