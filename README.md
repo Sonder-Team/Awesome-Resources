@@ -5,16 +5,16 @@
 
 # Contents
 
-- [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)
+- [Education](https://github.com/shamsiddin-abbasov/essential-links/tree/main#education)
 - [Open-Source Projects]()
 
 # Education
 
-- [University Courses](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#university-courses)
-- [Professional and Career Courses](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#professional-and-career-courses)
+- [University Courses](https://github.com/shamsiddin-abbasov/essential-links#university-courses)
+- [Professional and Career Courses](https://github.com/shamsiddin-abbasov/essential-links#professional-and-career-courses)
 
 ## University Courses
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -36,17 +36,17 @@
 | [Yale Online](https://online.yale.edu/) | Yale Online is an online platform offered by Yale University that provides a diverse range of high-quality educational programs and courses accessible to learners worldwide. It offers a variety of subjects across disciplines, including arts, sciences, business, health, and more. The platform allows learners to engage with Yale's renowned faculty and access their expertise through video lectures, assignments, and interactive learning materials. With a commitment to academic excellence, Online.Yale.edu offers a flexible and convenient learning experience, empowering individuals to expand their knowledge, enhance their skills, and advance their personal and professional goals through online education. |
 
 ## Professional and Career Courses
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
-- [General Ed](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#general-education)
-- [Economics and Finance](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#economics-and-finance)
-- [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#exact-and-natural-sciences)
-- [Information Technology](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#information-technology)
-- [Medicine](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#medicine)
+- [General Education](https://github.com/shamsiddin-abbasov/essential-links#general-education)
+- [Economics and Finance](https://github.com/shamsiddin-abbasov/essential-links#economics-and-finance)
+- [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links#exact-and-natural-sciences)
+- [Information Technology](https://github.com/shamsiddin-abbasov/essential-links#information-technology)
+- [Medicine](https://github.com/shamsiddin-abbasov/essential-links#medicine)
 - [Free eBooks]()
 
 ## General Education
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -55,7 +55,7 @@
 | [PBS Learning Media](https://pbslearningmedia.org/) | PBS Learning Media is an online educational platform that provides free access to a vast collection of educational resources for students, teachers, and parents. Created by the Public Broadcasting Service (PBS), the platform offers a wide range of multimedia content, including videos, interactive lessons, games, and activities, covering various subjects and grade levels. PBS Learning Media aims to support and enhance classroom instruction by providing engaging and curriculum-aligned materials that promote critical thinking, creativity, and active learning. It serves as a valuable tool for educators to supplement their teaching and for students and parents to explore educational content that is both informative and entertaining. |
 
 ## Economics and Finance
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -63,7 +63,7 @@
 | [EFI](https://www.econfun.org/en) |  EFI is an interactive educational platform that offers a playful and engaging way to learn about economics. It provides a collection of online games, simulations, and exercises that allow users to explore various economic concepts and principles. Through hands-on activities, EFI aims to demystify economics and make it accessible to a wide audience. It covers topics like supply and demand, market equilibrium, fiscal policy, and more. By blending entertainment with educational content, EFI provides a unique and enjoyable learning experience that promotes a deeper understanding of economic theory and its practical applications. |
 
 ## Exact and Natural Sciences
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -73,7 +73,7 @@
 | [Susan Fowler](https://susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics) | The website Susan Fowler is a blog post written by Susan J. Fowler. It offers guidance and resources for individuals interested in learning physics. The post provides advice on how to approach studying physics effectively, recommended textbooks and online resources, and tips for understanding complex concepts. It aims to assist beginners in developing a solid foundation in physics by suggesting strategies for self-study and highlighting useful learning materials. Susan J. Fowler's blog post serves as a valuable starting point for those interested in exploring and deepening their understanding of physics. |
 
 ## Information Technology
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
@@ -99,7 +99,7 @@
 
 
 ## Medicine
-[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links/blob/main/README.md#contents)
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
