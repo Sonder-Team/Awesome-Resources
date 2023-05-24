@@ -12,6 +12,7 @@
 
 - [University Courses](https://github.com/shamsiddin-abbasov/essential-links#university-courses)
 - [Professional and Career Courses](https://github.com/shamsiddin-abbasov/essential-links#professional-and-career-courses)
+- [eBooks and Textbooks](https://github.com/shamsiddin-abbasov/essential-links#ebooks-and-textbooks)
 
 ## University Courses
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
@@ -43,7 +44,6 @@
 - [Exact and Natural Sciences](https://github.com/shamsiddin-abbasov/essential-links#exact-and-natural-sciences)
 - [Information Technology](https://github.com/shamsiddin-abbasov/essential-links#information-technology)
 - [Medicine](https://github.com/shamsiddin-abbasov/essential-links#medicine)
-- [Free eBooks]()
 
 ## General Education
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
@@ -107,6 +107,14 @@
 | ------------- | ------------- |
 | [Ninja Nerd](https://ninjanerd.org/)  | Ninja Nerd is an educational platform that focuses on providing engaging and informative content in the field of science and healthcare. Led by an experienced team of healthcare professionals, Ninja Nerd offers online courses, tutorials, and video lectures covering topics such as anatomy, physiology, pharmacology, and pathology. With a dynamic teaching style and visually appealing presentations, Ninja Nerd aims to simplify complex scientific concepts, making them accessible and enjoyable for learners. Their educational resources are designed to empower students, healthcare professionals, and enthusiasts to deepen their understanding and excel in their academic and professional pursuits. |
 | [Open WHO](https://openwho.org/) | Open WHO is an online platform developed by the World Health Organization (WHO) that provides free and open-access training and learning resources related to public health. It offers a wide range of courses, guidelines, tools, and educational materials on various topics, including disease outbreaks, emergencies, health systems, and more. Open WHO aims to enhance the knowledge and skills of health professionals, policymakers, and the general public in addressing global health challenges. The platform promotes collaboration, knowledge sharing, and capacity building, enabling individuals and organizations to access reliable information and resources to improve public health practices worldwide. |
+
+# eBooks and Textbooks
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
+
+| Links  | Description |
+| ------------- | ------------- |
+| [OpenStax](https://openstax.org/) | OpenStax is a nonprofit organization dedicated to making high-quality educational resources more accessible and affordable. They create and provide open-source textbooks and learning materials for various subjects, including science, mathematics, social sciences, and more. OpenStax's materials are available online for free, allowing students and educators to access them without financial barriers. Their resources undergo rigorous peer review and are designed to align with educational standards. OpenStax aims to revolutionize education by promoting open educational resources, empowering learners with free and accessible content, and supporting educators in delivering quality instruction. |
+| [The Data School](https://dataschool.com/) | The Data School is an online platform dedicated to providing comprehensive and practical education in data science and analytics. It offers a wide range of resources, including tutorials, and ebooks, designed to help learners acquire the skills and knowledge needed to excel in the field of data science. The platform covers various topics such as Python programming, data manipulation, visualization, statistical analysis, and machine learning. With a focus on real-world applications and hands-on learning, dataschool.com aims to empower individuals with the tools and expertise to leverage data effectively and make informed decisions in today's data-driven world.|
 
 ## Scientific Publications & Research Papers
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
