@@ -7,6 +7,7 @@
 
 - [Data and Datasets](https://github.com/shamsiddin-abbasov/essential-links/tree/main#data-and-datasets)
 - [Education](https://github.com/shamsiddin-abbasov/essential-links/tree/main#education)
+- [Roadmaps](https://github.com/shamsiddin-abbasov/essential-links/tree/main#roadmaps)
 - [Scientific Publications & Research Papers](https://github.com/shamsiddin-abbasov/essential-links#scientific-publications--research-papers)
 
 # Data and Datasets
@@ -125,7 +126,7 @@
 | [Ninja Nerd](https://ninjanerd.org/)  | Ninja Nerd is an educational platform that focuses on providing engaging and informative content in the field of science and healthcare. Led by an experienced team of healthcare professionals, Ninja Nerd offers online courses, tutorials, and video lectures covering topics such as anatomy, physiology, pharmacology, and pathology. With a dynamic teaching style and visually appealing presentations, Ninja Nerd aims to simplify complex scientific concepts, making them accessible and enjoyable for learners. Their educational resources are designed to empower students, healthcare professionals, and enthusiasts to deepen their understanding and excel in their academic and professional pursuits. |
 | [Open WHO](https://openwho.org/) | Open WHO is an online platform developed by the World Health Organization (WHO) that provides free and open-access training and learning resources related to public health. It offers a wide range of courses, guidelines, tools, and educational materials on various topics, including disease outbreaks, emergencies, health systems, and more. Open WHO aims to enhance the knowledge and skills of health professionals, policymakers, and the general public in addressing global health challenges. The platform promotes collaboration, knowledge sharing, and capacity building, enabling individuals and organizations to access reliable information and resources to improve public health practices worldwide. |
 
-# eBooks and Textbooks
+## eBooks and Textbooks
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
@@ -134,8 +135,15 @@
 | [OpenStax](https://openstax.org/) | OpenStax is a nonprofit organization dedicated to making high-quality educational resources more accessible and affordable. They create and provide open-source textbooks and learning materials for various subjects, including science, mathematics, social sciences, and more. OpenStax's materials are available online for free, allowing students and educators to access them without financial barriers. Their resources undergo rigorous peer review and are designed to align with educational standards. OpenStax aims to revolutionize education by promoting open educational resources, empowering learners with free and accessible content, and supporting educators in delivering quality instruction. |
 | [The Data School](https://dataschool.com/) | The Data School is an online platform dedicated to providing comprehensive and practical education in data science and analytics. It offers a wide range of resources, including tutorials, and ebooks, designed to help learners acquire the skills and knowledge needed to excel in the field of data science. The platform covers various topics such as Python programming, data manipulation, visualization, statistical analysis, and machine learning. With a focus on real-world applications and hands-on learning, dataschool.com aims to empower individuals with the tools and expertise to leverage data effectively and make informed decisions in today's data-driven world.|
 
+# Roadmaps
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
-## Scientific Publications & Research Papers
+| Links  | Description |
+| ------------- | ------------- |
+| [roadmap.sh](https://roadmap.sh/)  | roadmap.sh is a comprehensive online resource that provides structured learning roadmaps for various programming languages, frameworks, and technologies. It offers a step-by-step guide to help individuals navigate their learning journey in the field of software development. The platform presents clear and concise roadmaps that outline the necessary skills, tools, and concepts to master, along with recommended resources and tutorials. It caters to beginners, intermediate learners, and experienced professionals, enabling them to enhance their technical skills, stay updated with the latest industry trends, and plan their learning path effectively.roadmap.sh is a valuable resource for individuals seeking to advance their careers in software development. |
+| [TeachYourselfCS]() | TeachYourselfCS is a website that offers a comprehensive and curated curriculum for individuals interested in learning computer science independently. It provides a structured roadmap with a list of essential topics, recommended textbooks, and online resources to guide self-study. The website covers various areas of computer science, including algorithms, data structures, operating systems, programming languages, and more. By providing a clear learning path and valuable resources, TeachYourselfCS aims to assist individuals in acquiring a solid foundation in computer science and gaining the necessary knowledge and skills to pursue further studies or careers in the field. |
+
+# Scientific Publications & Research Papers
 [**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
