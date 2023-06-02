@@ -18,8 +18,8 @@
 
 | Links  | Description |
 | ------------- | ------------- |
+| [Amazon's apprenticeship](https://www.amazon.jobs/en/landing_pages/apprentices) | The website https://www.amazon.jobs/en/landing_pages/apprentices is a platform dedicated to showcasing Amazon's apprenticeship programs. It provides information and resources for individuals interested in pursuing apprenticeships at Amazon. The site highlights various apprenticeship opportunities available across different fields, including technology, operations, and skilled trades. It offers details about the application process, program duration, and the benefits of joining an apprenticeship at Amazon. Visitors can access success stories of past apprentices, learn about the supportive learning environment, and explore the potential career pathways that can be pursued through these programs. |
 | [Google Apprenticeship](https://buildyourfuture.withgoogle.com/apprenticeships) | The website "buildyourfuture.withgoogle.com/apprenticeships" provides a platform for individuals to explore and pursue apprenticeship opportunities offered by Google. It offers a range of apprenticeship programs designed to provide hands-on learning experiences in various fields such as technology, business, and design. The website offers comprehensive information about the programs, including eligibility criteria, application process, and benefits. It serves as a valuable resource for individuals seeking to kickstart their careers through practical training, mentorship, and real-world projects provided by Google's apprenticeship programs. |
-| ... | ... |
 
 # Coding Challenges and Interview Preparation Resources
 
