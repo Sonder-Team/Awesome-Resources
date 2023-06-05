@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="logo/awesome-resources-logo.png" alt="Material Bread logo">
+    <img src="logo/Awesome Resources.png" alt="Material Bread logo">
 </p>
 <h3 align="center">Awesome Resources</h3>
 
