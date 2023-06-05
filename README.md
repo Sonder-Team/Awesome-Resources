@@ -22,6 +22,7 @@
 | [Google Apprenticeship](https://buildyourfuture.withgoogle.com/apprenticeships) | The website "buildyourfuture.withgoogle.com/apprenticeships" provides a platform for individuals to explore and pursue apprenticeship opportunities offered by Google. It offers a range of apprenticeship programs designed to provide hands-on learning experiences in various fields such as technology, business, and design. The website offers comprehensive information about the programs, including eligibility criteria, application process, and benefits. It serves as a valuable resource for individuals seeking to kickstart their careers through practical training, mentorship, and real-world projects provided by Google's apprenticeship programs. |
 
 # Coding Challenges and Interview Preparation Resources
+[**Back to Contents**](https://github.com/shamsiddin-abbasov/essential-links#contents)
 
 | Links  | Description |
 | ------------- | ------------- |
